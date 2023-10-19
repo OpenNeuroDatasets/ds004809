@@ -1,0 +1,9 @@
+{
+    "Name": "Categorized Free Recall: Delayed Free Recall of Word Lists Organized by Semantic Categories",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Haydn G. Herrema",
+        "Michael J. Kahana"
+    ]
+}
