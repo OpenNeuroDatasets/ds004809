@@ -1,0 +1,17 @@
+name	type	units	low_cutoff	high_cutoff	group	sampling_frequency	description	notch
+LTD1	SEEG	V	n/a	n/a	LTD	500	depth	n/a
+LTD2	SEEG	V	n/a	n/a	LTD	500	depth	n/a
+LTD3	SEEG	V	n/a	n/a	LTD	500	depth	n/a
+LTD4	SEEG	V	n/a	n/a	LTD	500	depth	n/a
+LTD5	SEEG	V	n/a	n/a	LTD	500	depth	n/a
+LTD6	SEEG	V	n/a	n/a	LTD	500	depth	n/a
+LTD7	SEEG	V	n/a	n/a	LTD	500	depth	n/a
+LTD8	SEEG	V	n/a	n/a	LTD	500	depth	n/a
+RTD1	SEEG	V	n/a	n/a	RTD	500	depth	n/a
+RTD2	SEEG	V	n/a	n/a	RTD	500	depth	n/a
+RTD3	SEEG	V	n/a	n/a	RTD	500	depth	n/a
+RTD4	SEEG	V	n/a	n/a	RTD	500	depth	n/a
+RTD5	SEEG	V	n/a	n/a	RTD	500	depth	n/a
+RTD6	SEEG	V	n/a	n/a	RTD	500	depth	n/a
+RTD7	SEEG	V	n/a	n/a	RTD	500	depth	n/a
+RTD8	SEEG	V	n/a	n/a	RTD	500	depth	n/a

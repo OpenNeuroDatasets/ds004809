@@ -1,0 +1,127 @@
+name	x	y	z	size	group	hemisphere	type	wb.region	ind.region	das.region	stein.region
+LAH1	-25.6697	-0.759068	-20.9656	-999	LAH	L	depth	Left Amygdala	n/a	n/a	Left Amy
+LAH2	-31.1951	-0.131725	-19.4221	-999	LAH	L	depth	Left Cerebral White Matter	n/a	n/a	Left Amy
+LAH3	-36.3124	1.58465	-18.4782	-999	LAH	L	depth	Left Cerebral White Matter	n/a	n/a	n/a
+LAH4	-41.8377	2.21306	-16.9347	-999	LAH	L	depth	Left PP planum polare	superiortemporal	n/a	n/a
+LAH5	-46.2516	2.92638	-15.4468	-999	LAH	L	depth	Left PP planum polare	superiortemporal	n/a	n/a
+LAH6	-51.9241	4.59977	-14.475	-999	LAH	L	depth	Left STG superior temporal gyrus	superiortemporal	n/a	n/a
+LAH7	-57.4506	5.22814	-12.9315	-999	LAH	L	depth	Left STG superior temporal gyrus	superiortemporal	n/a	n/a
+LAH8	-63.5937	5.80913	-11.9725	-999	LAH	L	depth	n/a	superiortemporal	n/a	n/a
+LAH9	-67.017	6.60168	-11.7651	-999	LAH	L	depth	n/a	superiortemporal	n/a	n/a
+LAH10	-71.3945	8.37116	-9.01177	-999	LAH	L	depth	n/a	superiortemporal	n/a	n/a
+LMH1	-17.2693	-10.1631	-12.4982	-999	LMH	L	depth	Left Hippocampus	n/a	DG	Left DG
+LMH2	-23.0385	-9.54926	-13.4043	-999	LMH	L	depth	Left Hippocampus	n/a	DG	Left CA3
+LMH3	-27.5732	-8.84268	-13.1413	-999	LMH	L	depth	Left Hippocampus	n/a	n/a	Left CA1
+LMH4	-33.2215	-8.22211	-12.8225	-999	LMH	L	depth	Left Cerebral White Matter	n/a	n/a	n/a
+LMH5	-39.4685	-7.11978	-12.4557	-999	LMH	L	depth	Left PP planum polare	superiortemporal	n/a	n/a
+LMH6	-45.1158	-6.49917	-12.1369	-999	LMH	L	depth	Left Cerebral White Matter	superiortemporal	n/a	n/a
+LMH7	-49.6152	-4.73643	-10.6084	-999	LMH	L	depth	Left Cerebral White Matter	superiortemporal	n/a	n/a
+LMH8	-55.2637	-4.11585	-10.2896	-999	LMH	L	depth	Left Cerebral White Matter	superiortemporal	n/a	n/a
+LMH9	-61.4068	-3.53382	-9.33083	-999	LMH	L	depth	Left STG superior temporal gyrus	superiortemporal	n/a	n/a
+LMH10	-67.0541	-2.91322	-9.01209	-999	LMH	L	depth	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LPH1	-31.0223	-15.4561	-8.2624	-999	LPH	L	depth	Left Cerebral White Matter	fusiform	n/a	n/a
+LPH2	-36.2364	-14.7992	-9.19634	-999	LPH	L	depth	Left Cerebral White Matter	fusiform	n/a	n/a
+LPH3	-41.944	-14.182	-9.49008	-999	LPH	L	depth	Left Cerebral White Matter	middletemporal	n/a	n/a
+LPH4	-47.7132	-13.5682	-10.3961	-999	LPH	L	depth	Left Cerebral White Matter	superiortemporal	n/a	n/a
+LPH5	-53.3617	-12.9476	-10.0775	-999	LPH	L	depth	Left Cerebral White Matter	superiortemporal	n/a	n/a
+LPH6	-59.6256	-12.3733	-10.3433	-999	LPH	L	depth	Left Cerebral White Matter	middletemporal	n/a	n/a
+LPH7	-64.2834	-11.6746	-11.3049	-999	LPH	L	depth	Left Cerebral White Matter	middletemporal	n/a	n/a
+LPH8	-69.9307	-11.054	-10.9862	-999	LPH	L	depth	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LPH9	-75.7433	-9.91543	-11.8721	-999	LPH	L	depth	n/a	middletemporal	n/a	n/a
+LPH10	-80.2529	-10.2627	-12.2619	-999	LPH	L	depth	n/a	middletemporal	n/a	n/a
+RPG1	47.8594	-65.3589	-10.4358	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG2	46.5204	-73.3886	-8.1787	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG3	42.3935	-80.0513	-4.49693	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG4	38.6762	-85.6249	-1.41493	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG5	32.6484	-90.3206	1.81895	-999	RPG	R	grid	n/a	fusiform	n/a	n/a
+RPG6	26.4567	-94.4985	3.84822	-999	RPG	R	grid	n/a	fusiform	n/a	n/a
+RPG7	18.467	-97.2254	6.1314	-999	RPG	R	grid	n/a	fusiform	n/a	n/a
+RPG8	10.6801	-97.8239	6.55502	-999	RPG	R	grid	n/a	fusiform	n/a	n/a
+RPG9	54.0291	-64.8945	-4.58987	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG10	50.4405	-72.0426	-1.5686	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG11	44.9689	-76.6953	1.63746	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG12	40.0786	-82.3581	4.16652	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG13	33.965	-85.9893	7.73459	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG14	27.8515	-89.6208	11.3027	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG15	19.8014	-92.3497	12.9992	-999	RPG	R	grid	n/a	fusiform	n/a	n/a
+RPG16	11.2131	-94.5899	15.4212	-999	RPG	R	grid	n/a	fusiform	n/a	n/a
+RPG17	56.6903	-62.5881	1.50403	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG18	53.0766	-68.6749	5.34349	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG19	48.1613	-73.2706	8.80176	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG20	41.5772	-77.9948	12.3508	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG21	34.2299	-81.7245	14.6382	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG22	28.1166	-85.3558	18.2062	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG23	20.0061	-88.0913	19.232	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG24	12.4256	-89.7273	20.9476	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG25	59.2407	-58.1534	8.80238	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG26	54.4719	-63.7929	12.8818	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG27	48.3654	-69.0122	15.0348	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG28	41.6956	-72.6863	18.633	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG29	35.4607	-76.3304	20.8599	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG30	29.4327	-81.0119	24.3787	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG31	21.4431	-83.7343	26.7457	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG32	13.8638	-85.3704	28.4616	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG33	60.7644	-54.8466	16.2667	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG34	55.9348	-60.4925	19.6755	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG35	49.8214	-64.1237	23.2441	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG36	41.9177	-67.8964	25.561	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG37	35.7255	-72.0656	27.7637	-999	RPG	R	grid	n/a	inferiortemporal	n/a	n/a
+RPG38	29.6123	-75.697	31.3312	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG39	21.7082	-79.4694	33.6492	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG40	14.2748	-82.1493	35.9858	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG41	62.2274	-51.5461	23.0606	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG42	56.2246	-57.2842	25.8587	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG43	50.147	-59.8523	30.818	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG44	43.1486	-62.5021	31.7834	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG45	35.8619	-66.2255	34.7412	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG46	29.7304	-70.3883	37.614	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG47	21.8878	-74.1546	40.6019	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG48	14.5399	-77.8842	42.8897	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG49	63.6655	-47.1891	30.5743	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG50	57.552	-50.8206	34.1418	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG51	50.2047	-54.5503	36.4297	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG52	43.4134	-58.2374	38.6863	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG53	36.066	-61.9671	40.9742	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG54	29.8314	-65.6114	43.2007	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG55	21.9021	-68.3274	46.2384	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG56	14.512	-71.5322	48.5501	-999	RPG	R	grid	n/a	lateraloccipital	n/a	n/a
+RPG57	63.7411	-41.3558	36.8808	-999	RPG	R	grid	n/a	bankssts	n/a	n/a
+RPG58	57.6953	-46.5686	39.7048	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG59	50.4087	-50.2919	42.6627	-999	RPG	R	grid	n/a	middletemporal	n/a	n/a
+RPG60	43.6782	-53.9724	45.5904	-999	RPG	R	grid	n/a	inferiorparietal	n/a	n/a
+RPG61	36.2452	-56.6522	47.9269	-999	RPG	R	grid	n/a	inferiorparietal	n/a	n/a
+RPG62	28.8117	-59.3319	50.2635	-999	RPG	R	grid	n/a	inferiorparietal	n/a	n/a
+RPG63	20.7616	-62.0608	51.9601	-999	RPG	R	grid	n/a	inferiorparietal	n/a	n/a
+RPG64	13.3294	-64.7406	54.2966	-999	RPG	R	grid	n/a	cuneus	n/a	n/a
+RLOS1	3.98519	-31.2123	20.5398	-999	RLOS	R	strip	n/a	isthmuscingulate	n/a	n/a
+RLOS2	6.81504	-35.2456	10.7726	-999	RLOS	R	strip	n/a	n/a	n/a	n/a
+RLOS3	10.8167	-39.1866	1.64527	-999	RLOS	R	strip	n/a	isthmuscingulate	n/a	n/a
+RLOS4	17.1655	-42.9093	-5.5872	-999	RLOS	R	strip	n/a	entorhinal	n/a	n/a
+RLTS1	59.3246	-54.9684	-10.6832	-999	RLTS	R	strip	n/a	middletemporal	n/a	n/a
+RLTS2	62.1679	-52.6514	-2.75208	-999	RLTS	R	strip	n/a	middletemporal	n/a	n/a
+RLTS3	63.9956	-49.3379	7.55342	-999	RLTS	R	strip	n/a	middletemporal	n/a	n/a
+RLTS4	65.3409	-42.3429	16.5317	-999	RLTS	R	strip	n/a	superiortemporal	n/a	n/a
+LOC1	7.282	-44.729	6.97542	-999	LOC	R	strip	n/a	isthmuscingulate	n/a	n/a
+LOC2	12.6471	-50.1326	-0.673004	-999	LOC	R	strip	n/a	parahippocampal	n/a	n/a
+LOC3	19.8703	-56.9576	-7.44252	-999	LOC	R	strip	n/a	fusiform	n/a	n/a
+LOC4	27.8674	-62.6726	-11.1372	-999	LOC	R	strip	n/a	inferiortemporal	n/a	n/a
+RAFS1	7.28849	26.7337	61.884	-999	RAFS	R	strip	n/a	paracentral	n/a	n/a
+RAFS2	11.8407	18.1163	66.6476	-999	RAFS	R	strip	n/a	paracentral	n/a	n/a
+RAFS3	17.3048	9.03446	68.643	-999	RAFS	R	strip	n/a	postcentral	n/a	n/a
+RAFS4	24.3512	1.13017	70.5977	-999	RAFS	R	strip	n/a	postcentral	n/a	n/a
+RLOPA1	19.3867	-31.1057	-12.6852	-999	RLOPA	R	strip	n/a	entorhinal	n/a	n/a
+RLOPA2	26.6862	-38.9918	-13.9555	-999	RLOPA	R	strip	n/a	entorhinal	n/a	n/a
+RLOPA3	34.0466	-46.8735	-14.6136	-999	RLOPA	R	strip	n/a	fusiform	n/a	n/a
+RLOPA4	41.5104	-55.2771	-14.6795	-999	RLOPA	R	strip	n/a	inferiortemporal	n/a	n/a
+RLOPB1	3.4375	-39.7111	18.8647	-999	RLOPB	R	strip	n/a	isthmuscingulate	n/a	n/a
+RLOPB2	6.14428	-43.758	7.75593	-999	RLOPB	R	strip	n/a	isthmuscingulate	n/a	n/a
+RLOPB3	11.3815	-47.5907	0.0962908	-999	RLOPB	R	strip	n/a	parahippocampal	n/a	n/a
+RLOPB4	19.6237	-51.6989	-5.40267	-999	RLOPB	R	strip	n/a	fusiform	n/a	n/a
+RLOAA1	60.861	-41.633	-17.6927	-999	RLOAA	R	strip	n/a	middletemporal	n/a	n/a
+RLOAA2	64.2258	-47.1955	-11.2902	-999	RLOAA	R	strip	n/a	middletemporal	n/a	n/a
+RLOAA3	62.1679	-52.6514	-2.75208	-999	RLOAA	R	strip	n/a	middletemporal	n/a	n/a
+RLOAA4	60.1707	-58.0872	6.72998	-999	RLOAA	R	strip	n/a	middletemporal	n/a	n/a
+RLOAB1	59.2359	-26.9628	-21.4123	-999	RLOAB	R	strip	n/a	superiortemporal	n/a	n/a
+RLOAB2	65.4493	-33.889	-15.8222	-999	RLOAB	R	strip	n/a	middletemporal	n/a	n/a
+RLOAB3	67.7444	-40.0614	-9.38446	-999	RLOAB	R	strip	n/a	middletemporal	n/a	n/a
+RLOAB4	65.1124	-46.0891	-1.451	-999	RLOAB	R	strip	n/a	middletemporal	n/a	n/a

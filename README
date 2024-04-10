@@ -9,5 +9,8 @@ Unique to this paradigm is the semantic construction of the word lists.  Each wo
 
 #### To Note
 * The iEEG recordings are labeled either "monopolar" or "bipolar."  The monopolar recordings are referenced (typically a mastoid reference), but should always be re-referenced before analysis.  The bipolar recordings are referenced according to a paired scheme indicated by the accompanying bipolar channels tables.
-* Each subject has a unique montage of electrode locations.  MNI and Talairach coordinates are provided when available.
-* Recordings done with the Blackrock system are in units of 250 nV, while recordings done with the Medtronic system are estimated through testing to have units of 0.1 uV.  We have completed the scaling to provide values in V.
+* Each subject has a unique montage of electrode locations.  MNI and Talairach coordinates are provided when available, along with brain region annotations.
+* Recordings were made on multiple different systems, so we have done the scaling to provide all voltage values in V.
+
+#### Contact
+For questions or inquiries, please contact sas-kahana-sysadmin@sas.upenn.edu.

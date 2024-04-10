@@ -1,0 +1,125 @@
+name	x	y	z	size	group	hemisphere	type	wb.region	ind.region
+RX1	9.76487	-32.6034	30.5763	-999	RX	R	depth	Right PCgG posterior cingulate gyrus	isthmuscingulate
+RX2	12.2359	-33.5071	31.135	-999	RX	R	depth	Right PCu precuneus	precuneus
+RX3	16.4002	-34.3403	31.4354	-999	RX	R	depth	Right Cerebral White Matter	precuneus
+RX4	19.8982	-36.2082	30.958	-999	RX	R	depth	Right Cerebral White Matter	precuneus
+RX5	23.549	-36.5593	31.7765	-999	RX	R	depth	Right Cerebral White Matter	superiorparietal
+RX6	26.427	-37.4463	31.3656	-999	RX	R	depth	Right Cerebral White Matter	superiorparietal
+RX7	30.0268	-38.303	31.7521	-999	RX	R	depth	Right Cerebral White Matter	superiorparietal
+RX8	34.8113	-40.1172	31.9861	-999	RX	R	depth	Right Cerebral White Matter	superiorparietal
+RX9	37.6891	-41.0042	31.5752	-999	RX	R	depth	Right Cerebral White Matter	inferiorparietal
+RX10	41.289	-41.8609	31.9617	-999	RX	R	depth	Right Cerebral White Matter	inferiorparietal
+RX11	44.8889	-42.7176	32.3481	-999	RX	R	depth	Right Cerebral White Matter	inferiorparietal
+RX12	48.8956	-43.5576	31.7651	-999	RX	R	depth	Right Cerebral White Matter	inferiorparietal
+RX13	52.5464	-43.9086	32.5835	-999	RX	R	depth	Right AnG angular gyrus	inferiorparietal
+RX14	56.1463	-44.7653	32.97	-999	RX	R	depth	Right AnG angular gyrus	supramarginal
+RX15	59.0242	-45.6523	32.5591	-999	RX	R	depth	Right AnG angular gyrus	supramarginal
+RX16	62.624	-46.509	32.9457	-999	RX	R	depth	Right AnG angular gyrus	inferiorparietal
+RZ1	5.52671	-45.871	22.5131	-999	RZ	R	depth	Right PCu precuneus	isthmuscingulate
+RZ2	9.02471	-47.7391	22.0358	-999	RZ	R	depth	Right PCu precuneus	precuneus
+RZ3	12.5227	-49.6071	21.5584	-999	RZ	R	depth	Right PCu precuneus	precuneus
+RZ4	14.3275	-51.5455	21.3394	-999	RZ	R	depth	Right Cerebral White Matter	precuneus
+RZ5	17.8812	-54.4181	20.8816	-999	RZ	R	depth	Right PCu precuneus	precuneus
+RZ6	21.3513	-55.7838	20.3944	-999	RZ	R	depth	Right PCu precuneus	precuneus
+RZ7	24.8494	-57.6518	19.9171	-999	RZ	R	depth	Right PCu precuneus	precuneus
+RZ8	26.654	-59.5903	19.6981	-999	RZ	R	depth	Right PCu precuneus	precuneus
+RZ9	30.0502	-62.4696	18.3569	-999	RZ	R	depth	Right SPL superior parietal lobule	precuneus
+RZ10	33.5203	-63.8354	17.8697	-999	RZ	R	depth	Right Cerebral White Matter	inferiorparietal
+RZ11	35.8895	-65.7504	17.5645	-999	RZ	R	depth	Right AnG angular gyrus	inferiorparietal
+RZ12	38.823	-67.6419	17.1733	-999	RZ	R	depth	Right IOG inferior occipital gyrus	inferiorparietal
+RZ13	42.3768	-70.5144	16.7156	-999	RZ	R	depth	Right MOG middle occipital gyrus	inferiorparietal
+RZ14	44.718	-71.9271	16.4006	-999	RZ	R	depth	Right MOG middle occipital gyrus	inferiorparietal
+RZ15	47.6516	-73.8186	16.0094	-999	RZ	R	depth	Right IOG inferior occipital gyrus	inferiorparietal
+RZ16	50.9133	-75.6969	14.2068	-999	RZ	R	depth	n/a	inferiorparietal
+RI1	30.609	9.53861	9.90579	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI2	30.7761	6.52521	9.9647	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI3	30.0508	3.4749	11.5212	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI4	30.2457	-0.0407947	11.59	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI5	30.5703	-3.04745	12.5325	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI6	30.7932	-7.06539	12.6111	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI7	31.0899	-9.5698	13.5438	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI8	30.3414	-13.628	14.6781	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI9	30.5086	-16.6414	14.7371	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI10	30.7035	-20.1571	14.806	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI11	31.0282	-23.1638	15.7484	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI12	30.3306	-26.7162	17.3147	-999	RI	R	depth	Right Cerebral White Matter	insula
+RI13	30.4977	-29.7298	17.3736	-999	RI	R	depth	Right Cerebral White Matter	supramarginal
+RI14	30.878	-33.7409	18.3358	-999	RI	R	depth	Right Cerebral White Matter	supramarginal
+RI15	31.0173	-36.2521	18.3849	-999	RI	R	depth	Right Cerebral White Matter	supramarginal
+RI16	30.2688	-40.3102	19.5192	-999	RI	R	depth	Right Cerebral White Matter	supramarginal
+RFA1	46.7784	11.2231	22.8395	-999	RFA	R	depth	Right MFG middle frontal gyrus	parsopercularis
+RFA2	49.166	11.8262	23.3687	-999	RFA	R	depth	Right MFG middle frontal gyrus	parsopercularis
+RFA3	52.6544	12.9785	23.7159	-999	RFA	R	depth	Right PrG precentral gyrus	parsopercularis
+RFA4	55.5228	15.1118	24.1296	-999	RFA	R	depth	Right PrG precentral gyrus	parsopercularis
+RFA5	59.9825	16.3042	23.421	-999	RFA	R	depth	n/a	parsopercularis
+RFA6	63.5498	17.4599	24.21	-999	RFA	R	depth	n/a	precentral
+RFB1	31.1771	13.0951	40.1242	-999	RFB	R	depth	Right Cerebral White Matter	caudalmiddlefrontal
+RFB2	32.8575	13.166	43.0442	-999	RFB	R	depth	Right Cerebral White Matter	caudalmiddlefrontal
+RFB3	34.4034	14.238	45.503	-999	RFB	R	depth	Right Cerebral White Matter	caudalmiddlefrontal
+RFB4	36.2413	14.3158	49.3067	-999	RFB	R	depth	Right Cerebral White Matter	caudalmiddlefrontal
+RFB5	37.8659	15.3912	52.2072	-999	RFB	R	depth	Right MFG middle frontal gyrus	caudalmiddlefrontal
+RFB6	39.1396	15.4453	56.0969	-999	RFB	R	depth	Right MFG middle frontal gyrus	caudalmiddlefrontal
+RJ1	33.8268	8.72015	-13.3782	-999	RJ	R	depth	n/a	superiortemporal
+RJ2	33.0226	5.66234	-12.3469	-999	RJ	R	depth	Right AIns anterior insula	insula
+RJ3	32.6124	2.61204	-9.29844	-999	RJ	R	depth	Right Cerebral White Matter	insula
+RJ4	31.9379	0.059353	-7.47144	-999	RJ	R	depth	Right Putamen	insula
+RJ5	32.4432	-1.9419	-5.40966	-999	RJ	R	depth	Right Cerebral White Matter	n/a
+RJ6	31.7965	-4.9967	-3.57151	-999	RJ	R	depth	Right Putamen	insula
+RJ7	31.2287	-8.05001	-1.32993	-999	RJ	R	depth	Right Putamen	insula
+RJ8	30.5542	-10.6027	0.497066	-999	RJ	R	depth	Right Putamen	insula
+RJ9	30.5508	-13.6227	2.84776	-999	RJ	R	depth	Right Cerebral White Matter	insula
+RJ10	29.8485	-15.6651	4.82635	-999	RJ	R	depth	Right Cerebral White Matter	insula
+RJ11	29.174	-18.2096	6.81478	-999	RJ	R	depth	Right Cerebral White Matter	insula
+RJ12	28.6061	-21.253	9.25479	-999	RJ	R	depth	Right Cerebral White Matter	insula
+RJ13	29.0884	-24.2528	11.0808	-999	RJ	R	depth	Right Cerebral White Matter	insula
+RJ14	28.4648	-26.2918	13.5012	-999	RJ	R	depth	Right Cerebral White Matter	insula
+RJ15	27.7903	-28.8363	15.4896	-999	RJ	R	depth	Right Cerebral White Matter	insula
+RJ16	27.2224	-31.8796	17.9296	-999	RJ	R	depth	Right Cerebral White Matter	supramarginal
+RL1	37.1644	7.83072	-8.42623	-999	RL	R	depth	Right AIns anterior insula	insula
+RL2	36.5409	5.78175	-6.20695	-999	RL	R	depth	Right AIns anterior insula	insula
+RL3	34.8673	3.68656	-3.42677	-999	RL	R	depth	Right AIns anterior insula	insula
+RL4	34.2437	1.63759	-1.20749	-999	RL	R	depth	Right AIns anterior insula	n/a
+RL5	33.7499	0.102372	1.97965	-999	RL	R	depth	Right Putamen	insula
+RL6	33.2052	-1.93312	4.84175	-999	RL	R	depth	Right Cerebral White Matter	insula
+RL7	32.7391	-3.96517	8.14564	-999	RL	R	depth	Right Cerebral White Matter	insula
+RL8	32.2732	-5.99722	11.4495	-999	RL	R	depth	Right Cerebral White Matter	insula
+RL9	31.1918	-8.55848	14.4076	-999	RL	R	depth	Right Cerebral White Matter	insula
+RL10	30.7258	-10.5906	17.7114	-999	RL	R	depth	Right Cerebral White Matter	insula
+RL11	30.0235	-12.6329	19.6902	-999	RL	R	depth	Right Cerebral White Matter	insula
+RL12	29.5575	-14.6649	22.9941	-999	RL	R	depth	Right Cerebral White Matter	insula
+RL13	27.9626	-16.744	26.4701	-999	RL	R	depth	Right Cerebral White Matter	insula
+RL14	27.2325	-18.2841	28.4389	-999	RL	R	depth	Right Cerebral White Matter	insula
+RL15	26.7108	-19.3117	31.7231	-999	RL	R	depth	Right Cerebral White Matter	precentral
+RL16	26.166	-21.3472	34.5852	-999	RL	R	depth	Right Cerebral White Matter	precentral
+RK1	33.3629	14.2411	-14.3078	-999	RK	R	depth	Right POrG posterior orbital gyrus	lateralorbitofrontal
+RK2	32.4935	15.2038	-12.5589	-999	RK	R	depth	Right AIns anterior insula	lateralorbitofrontal
+RK3	30.6758	17.1275	-9.46449	-999	RK	R	depth	Right AIns anterior insula	lateralorbitofrontal
+RK4	30.1446	19.1019	-5.72071	-999	RK	R	depth	Right AIns anterior insula	lateralorbitofrontal
+RK5	28.2761	20.522	-3.01864	-999	RK	R	depth	Right Cerebral White Matter	lateralorbitofrontal
+RK6	28.2074	21.5174	-0.0489645	-999	RK	R	depth	Right Cerebral White Matter	lateralorbitofrontal
+RK7	27.5186	23.5033	3.17633	-999	RK	R	depth	Right Cerebral White Matter	lateralorbitofrontal
+RK8	25.6778	24.4343	6.1517	-999	RK	R	depth	Right Cerebral White Matter	lateralorbitofrontal
+RK9	24.9891	26.4201	9.37704	-999	RK	R	depth	Right Cerebral White Matter	parstriangularis
+RK10	24.356	27.4016	12.6219	-999	RK	R	depth	Right Cerebral White Matter	parstriangularis
+RK11	22.4875	28.8348	15.5875	-999	RK	R	depth	Right Cerebral White Matter	parstriangularis
+RK12	21.7986	30.8208	18.8127	-999	RK	R	depth	Right Cerebral White Matter	rostralmiddlefrontal
+RK13	21.1656	31.8021	22.0577	-999	RK	R	depth	Right Cerebral White Matter	superiorfrontal
+RK14	20.8049	33.8012	23.8715	-999	RK	R	depth	Right Cerebral White Matter	rostralmiddlefrontal
+RK15	19.0429	34.7357	27.2887	-999	RK	R	depth	Right Cerebral White Matter	superiorfrontal
+RK16	18.3542	36.7216	30.5139	-999	RK	R	depth	Right SFG superior frontal gyrus	rostralmiddlefrontal
+ROF1	7.17616	17.1607	-10.7748	-999	ROF	R	depth	Right Lateral Ventricle	medialorbitofrontal
+ROF2	9.50782	18.7658	-10.3164	-999	ROF	R	depth	Right Lateral Ventricle	medialorbitofrontal
+ROF3	12.9407	20.9207	-10.0266	-999	ROF	R	depth	Right Lateral Ventricle	medialorbitofrontal
+ROF4	15.809	23.0517	-9.65802	-999	ROF	R	depth	Right Cerebral White Matter	lateralorbitofrontal
+ROF5	18.1917	25.1604	-8.80737	-999	ROF	R	depth	Right Cerebral White Matter	lateralorbitofrontal
+ROF6	21.6245	27.3152	-8.51757	-999	ROF	R	depth	Right Cerebral White Matter	lateralorbitofrontal
+ROF7	25.085	28.968	-8.21664	-999	ROF	R	depth	Right POrG posterior orbital gyrus	lateralorbitofrontal
+ROF8	26.8245	31.0513	-7.69064	-999	ROF	R	depth	Right MOrG medial orbital gyrus	lateralorbitofrontal
+ROF9	30.3361	33.2077	-6.99746	-999	ROF	R	depth	Right POrG posterior orbital gyrus	lateralorbitofrontal
+ROF10	33.769	35.3626	-6.70762	-999	ROF	R	depth	Right AOrG anterior orbital gyrus	lateralorbitofrontal
+ROF11	36.0728	37.4697	-6.26041	-999	ROF	R	depth	Right Cerebral White Matter	parsorbitalis
+ROF12	38.9691	39.0986	-5.88075	-999	ROF	R	depth	Right MFG middle frontal gyrus	parsorbitalis
+ROF13	42.4018	41.2536	-5.59092	-999	ROF	R	depth	Right MFG middle frontal gyrus	parsorbitalis
+ROF14	44.8402	42.3578	-4.71795	-999	ROF	R	depth	Right MFG middle frontal gyrus	parsorbitalis
+ROF15	47.7086	44.4889	-4.34937	-999	ROF	R	depth	Right MFG middle frontal gyrus	rostralmiddlefrontal
+ROF16	51.0856	47.6481	-4.08191	-999	ROF	R	depth	n/a	rostralmiddlefrontal
