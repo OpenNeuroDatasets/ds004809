@@ -1,0 +1,113 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+RAT1	17.7745	9.67226	-29.9636273914262	-999	RAT	R	strip	22.0999	8.62091	-23.0791	n/a	temporalpole	n/a	n/a
+RAT2	20.9943	14.6383	-35.8760921649158	-999	RAT	R	strip	22.7746	13.7093	-30.8778	n/a	temporalpole	n/a	n/a
+RAT3	29.4929	16.1461	-42.4304952449997	-999	RAT	R	strip	29.0003	13.6917	-38.2288	n/a	inferiortemporal	n/a	n/a
+RAT4	38.2118	12.6064	-43.1237518080692	-999	RAT	R	strip	39.2537	8.65188	-39.2315	n/a	middletemporal	n/a	n/a
+RAT5	48.9274	7.8357	-42.5398642588676	-999	RAT	R	strip	47.5009	2.53467	-37.2723	n/a	middletemporal	n/a	n/a
+RAT6	56.0099	-2.33583	-40.3418086143825	-999	RAT	R	strip	54.2052	-3.73254	-32.9924	n/a	middletemporal	n/a	n/a
+RAT7	61.278	-8.78326	-33.9645677579311	-999	RAT	R	strip	59.3953	-10.5494	-25.8612	n/a	inferiortemporal	n/a	n/a
+RAT8	65.2778	-16.3377	-28.3975559851738	-999	RAT	R	strip	67.1111	-16.0705	-20.8366	n/a	middletemporal	n/a	n/a
+RAST1	19.8658	5.35998	-35.3215789158835	-999	RAST	R	strip	18.7655	2.09912	-28.5541	n/a	temporalpole	n/a	n/a
+RAST2	21.5668	1.83885	-45.9631434729644	-999	RAST	R	strip	25.5761	0.957765	-36.6028	n/a	inferiortemporal	n/a	n/a
+RAST3	35.2766	4.00264	-45.786545862665	-999	RAST	R	strip	34.5796	-0.998077	-39.5441	n/a	inferiortemporal	n/a	n/a
+RAST4	46.9728	-1.36714	-45.9559941500091	-999	RAST	R	strip	43.2576	-5.5168	-37.4495	n/a	inferiortemporal	n/a	n/a
+RAST5	54.3351	-7.51298	-41.4586205974787	-999	RAST	R	strip	51.3701	-8.67774	-31.0775	n/a	inferiortemporal	n/a	n/a
+RAST6	59.5891	-14.3091	-35.3492971793294	-999	RAST	R	strip	59.4553	-11.5296	-25.6716	n/a	inferiortemporal	n/a	n/a
+RAST7	66.1258	-14.6668	-28.7011539581955	-999	RAST	R	strip	66.0071	-15.1653	-20.9944	n/a	inferiortemporal	n/a	n/a
+RAST8	70.9348	-21.739	-17.6510285142936	-999	RAST	R	strip	76.2976	-19.6464	-14.4019	n/a	middletemporal	n/a	n/a
+RPST1	15.2736	-43.7045	-8.01657297536411	-999	RPST	R	strip	17.4272	-42.6254	-6.69337	n/a	parahippocampal	n/a	n/a
+RPST2	24.3121	-38.6881	-18.4430207272458	-999	RPST	R	strip	27.0647	-38.2784	-14.043	n/a	fusiform	n/a	n/a
+RPST3	33.1589	-33.2948	-25.1460111569324	-999	RPST	R	strip	35.1827	-34.119	-16.799	n/a	fusiform	n/a	n/a
+RPST4	44.5324	-25.3137	-29.9104591235127	-999	RPST	R	strip	44.7741	-28.1956	-19.0159	n/a	inferiortemporal	n/a	n/a
+RPST5	52.9931	-23.997	-32.7064188161322	-999	RPST	R	strip	53.3461	-22.4753	-19.3635	n/a	inferiortemporal	n/a	n/a
+RPST6	61.969	-19.1926	-30.6080109357894	-999	RPST	R	strip	61.8256	-15.1036	-19.1244	n/a	inferiortemporal	n/a	n/a
+RPST7	64.0151	-9.34775	-30.8261012598016	-999	RPST	R	strip	68.785	-9.42098	-23.97	n/a	inferiortemporal	n/a	n/a
+RPST8	67.3731	-7.68704	-25.5143712007191	-999	RPST	R	strip	75.4854	-7.73416	-25.7685	n/a	inferiortemporal	n/a	n/a
+RPT1	42.4501	-92.9505	-6.55398043526249	-999	RPT	R	strip	41.2842	-90.277	-0.996297	n/a	lateraloccipital	n/a	n/a
+RPT2	47.8359	-82.2777	-12.1644396448242	-999	RPT	R	strip	46.9844	-80.8767	-4.73116	n/a	lateraloccipital	n/a	n/a
+RPT3	54.0032	-74.2343	-11.8092719922254	-999	RPT	R	strip	51.1133	-71.2268	-6.67571	n/a	fusiform	n/a	n/a
+RPT4	52.2923	-64.3776	-16.8322118172349	-999	RPT	R	strip	54.7268	-62.0672	-10.7824	n/a	inferiortemporal	n/a	n/a
+RPT5	62.2197	-51.4761	-24.6821692837765	-999	RPT	R	strip	58.2737	-51.4748	-12.9006	n/a	inferiortemporal	n/a	n/a
+RPT6	65.4708	-43.6361	-23.1185343040084	-999	RPT	R	strip	59.7897	-41.8318	-13.894	n/a	inferiortemporal	n/a	n/a
+RPT7	59.9697	-34.8177	-28.0203997823353	-999	RPT	R	strip	61.7963	-31.5704	-14.5627	n/a	inferiortemporal	n/a	n/a
+RPT8	69.751	-27.6504	-21.6165703800325	-999	RPT	R	strip	64.2939	-20.691	-14.9064	n/a	inferiortemporal	n/a	n/a
+ROF1	7.81363	49.2407	-23.3160703750882	-999	ROF	R	strip	5.06179	48.4069	-22.3746	n/a	medialorbitofrontal	n/a	n/a
+ROF2	18.5463	46.8212	-24.3822555559094	-999	ROF	R	strip	13.083	46.8069	-15.8514	n/a	lateralorbitofrontal	n/a	n/a
+ROF3	26.1454	42.739	-20.1360314465157	-999	ROF	R	strip	23.1214	45.5598	-15.7751	n/a	lateralorbitofrontal	n/a	n/a
+ROF4	34.5623	42.7433	-18.9463470042343	-999	ROF	R	strip	35.2516	44.1914	-17.0696	n/a	parsorbitalis	n/a	n/a
+ROF5	44.7881	43.1332	-16.1300698403516	-999	ROF	R	strip	45.286	43.2159	-15.6863	n/a	parsorbitalis	n/a	n/a
+ROF6	53.6744	39.4644	-12.1452072438853	-999	ROF	R	strip	51.7998	40.6136	-8.49009	n/a	parstriangularis	n/a	n/a
+ROF7	57.2697	38.7374	1.40287362803155	-999	ROF	R	strip	54.226	36.3375	-0.315939	n/a	parstriangularis	n/a	n/a
+ROF8	61.5055	29.5198	8.61869809304437	-999	ROF	R	strip	54.5927	31.5451	9.11974	n/a	parstriangularis	n/a	n/a
+RFP1	18.5861	61.0672	-18.3909594239893	-999	RFP	R	strip	12.9231	66.848	-17.9323	n/a	lateralorbitofrontal	n/a	n/a
+RFP2	21.8041	63.7895	-14.3161288226547	-999	RFP	R	strip	22.9559	65.963	-16.1136	n/a	rostralmiddlefrontal	n/a	n/a
+RFP3	35.0288	62.905	-9.93735660639811	-999	RFP	R	strip	33.1046	63.3894	-12.6087	n/a	rostralmiddlefrontal	n/a	n/a
+RFP4	45.4167	56.4822	-8.06181892312108	-999	RFP	R	strip	39.8063	57.3031	-7.45748	n/a	rostralmiddlefrontal	n/a	n/a
+RFP5	54.7125	46.1982	-1.23029966315088	-999	RFP	R	strip	44.9992	50.3115	-1.07209	n/a	rostralmiddlefrontal	n/a	n/a
+RFP6	54.4988	43.8165	4.01862980688019	-999	RFP	R	strip	46.5379	43.0793	5.87012	n/a	rostralmiddlefrontal	n/a	n/a
+RFP7	59.0141	35.3476	10.7231509887548	-999	RFP	R	strip	50.1947	35.5072	12.8447	n/a	parstriangularis	n/a	n/a
+RFP8	55.9391	36.3809	16.6500036598259	-999	RFP	R	strip	58.4024	30.5361	18.2016	n/a	parsopercularis	n/a	n/a
+LAT1	-24.2309	21.8765	-37.0634407956683	-999	LAT	L	strip	-24.6268	17.1916	-30.7699	n/a	temporalpole	n/a	n/a
+LAT2	-33.2451	25.492	-35.9365944330171	-999	LAT	L	strip	-32.7923	22.3816	-29.831	n/a	temporalpole	n/a	n/a
+LAT3	-44.031	25.8202	-38.3333437905197	-999	LAT	L	strip	-42.5907	19.7078	-29.1489	n/a	superiortemporal	n/a	n/a
+LAT4	-52.1512	19.8008	-33.8987806579572	-999	LAT	L	strip	-50.5508	12.5547	-28.5328	n/a	middletemporal	n/a	n/a
+LAT5	-58.7792	9.82912	-33.1576430908428	-999	LAT	L	strip	-56.8277	3.73496	-26.7141	n/a	middletemporal	n/a	n/a
+LAT6	-61.1562	-2.5539	-32.7333129224072	-999	LAT	L	strip	-60.4644	-5.38717	-24.8803	n/a	inferiortemporal	n/a	n/a
+LAT7	-66.6195	-10.7419	-25.4424258641951	-999	LAT	L	strip	-65.6373	-15.1121	-22.904	n/a	middletemporal	n/a	n/a
+LAT8	-67.5226	-21.0785	-27.8832312728353	-999	LAT	L	strip	-71.3894	-24.0753	-21.9725	n/a	middletemporal	n/a	n/a
+LAST1	-49.6121	5.19693	-47.7358783917135	-999	LAST	L	strip	-43.4895	0.587431	-22.2441	n/a	superiortemporal	n/a	n/a
+LAST2	-50.813	-6.37801	-45.79544300362	-999	LAST	L	strip	-42.0345	-7.15725	-28.0138	n/a	inferiortemporal	n/a	n/a
+LAST3	-50.3581	-13.8591	-41.0930036498502	-999	LAST	L	strip	-47.931	-14.0321	-29.2988	n/a	inferiortemporal	n/a	n/a
+LAST4	-60.8072	-16.2574	-35.055671623449	-999	LAST	L	strip	-57.6177	-18.1232	-25.6238	n/a	inferiortemporal	n/a	n/a
+LPST1	-22.1992	-21.7724	-23.8032098821127	-999	LPST	L	strip	-24.9516	-28.4693	-18.7147	n/a	parahippocampal	n/a	n/a
+LPST2	-32.8834	-24.3274	-30.1496618246835	-999	LPST	L	strip	-34.9231	-28.655	-20.7794	n/a	fusiform	n/a	n/a
+LPST3	-44.5318	-26.2092	-32.8057083174829	-999	LPST	L	strip	-46.0954	-26.0128	-21.1082	n/a	inferiortemporal	n/a	n/a
+LPST4	-55.5264	-21.7821	-33.6149667841353	-999	LPST	L	strip	-57.2375	-23.8607	-21.3422	n/a	inferiortemporal	n/a	n/a
+LOF1	-4.69432	46.3363	-25.4279021804045	-999	LOF	L	strip	-3.28786	47.6251	-22.9907	n/a	medialorbitofrontal	n/a	n/a
+LOF2	-17.7463	45.2681	-21.3458459550466	-999	LOF	L	strip	-13.0712	45.4571	-17.4219	n/a	lateralorbitofrontal	n/a	n/a
+LOF3	-27.088	50.1505	-19.4229583919885	-999	LOF	L	strip	-23.1462	47.6469	-15.4149	n/a	lateralorbitofrontal	n/a	n/a
+LOF4	-36.0239	49.3623	-19.4639117383044	-999	LOF	L	strip	-34.2311	48.9998	-14.5879	n/a	parsorbitalis	n/a	n/a
+LOF5	-42.776	48.7543	-18.5119897452843	-999	LOF	L	strip	-44.0351	46.6882	-12.1633	n/a	parsorbitalis	n/a	n/a
+LOF6	-56.3556	40.4343	-9.40898936466836	-999	LOF	L	strip	-49.9884	42.1139	-4.83048	n/a	parstriangularis	n/a	n/a
+LOF7	-59.1155	32.9296	2.17467844578897	-999	LOF	L	strip	-52.6285	34.7541	2.94634	n/a	parstriangularis	n/a	n/a
+LOF8	-59.5239	26.3242	16.9996606844319	-999	LOF	L	strip	-56.9247	28.7642	10.7291	n/a	parsopercularis	n/a	n/a
+LFP1	-1.40824	48.5585	-24.3837105889894	-999	LFP	L	strip	-0.221035	49.1927	-21.5335	n/a	medialorbitofrontal	n/a	n/a
+LFP2	-8.07895	59.5967	-23.6388790074425	-999	LFP	L	strip	-3.84203	57.4428	-19.905	n/a	lateralorbitofrontal	n/a	n/a
+LFP3	-16.6004	62.3015	-19.2573381021624	-999	LFP	L	strip	-13.0608	63.1913	-15.8847	n/a	rostralmiddlefrontal	n/a	n/a
+LFP4	-23.5118	64.7101	-12.1068041119741	-999	LFP	L	strip	-22.0072	64.348	-11.8826	n/a	rostralmiddlefrontal	n/a	n/a
+LFP5	-34.0883	62.534	-10.6508936253094	-999	LFP	L	strip	-31.8177	62.489	-7.27979	n/a	rostralmiddlefrontal	n/a	n/a
+LFP6	-43.5876	58.6079	-6.0068414719459	-999	LFP	L	strip	-38.7486	56.4111	-1.81623	n/a	rostralmiddlefrontal	n/a	n/a
+LFP7	-49.4384	50.7387	0.445008013135932	-999	LFP	L	strip	-45.0608	48.4583	1.94153	n/a	rostralmiddlefrontal	n/a	n/a
+LFP8	-54.7226	41.9405	5.41378087714974	-999	LFP	L	strip	-49.7782	40.2205	6.22651	n/a	parstriangularis	n/a	n/a
+RAMY1	34.0449	-4.7756	-29.7668559855874	-999	RAMY	R	depth	35.038	-5.88967	-21.3786	Right Cerebral White Matter	entorhinal	n/a	n/a
+RAMY2	38.2106	-7.10364	-30.267606492036	-999	RAMY	R	depth	40.3208	-6.67547	-22.2197	Right ITG inferior temporal gyrus	fusiform	n/a	n/a
+RAMY3	43.092	-6.70276	-26.7753085925747	-999	RAMY	R	depth	45.5982	-7.09916	-21.3184	Right Cerebral White Matter	fusiform	n/a	n/a
+RAMY4	47.9833	-5.37511	-24.1676071657617	-999	RAMY	R	depth	50.2965	-6.76124	-21.4618	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+RAMY5	54.8398	-6.23528	-23.6043206660949	-999	RAMY	R	depth	55.5739	-7.18492	-20.5604	Right Cerebral White Matter	middletemporal	n/a	n/a
+RAMY6	61.4222	-7.92949	-24.701048848481	-999	RAMY	R	depth	61.372	-7.48053	-19.2393	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RAMY7	66.4137	-10.9022	-24.3505234858437	-999	RAMY	R	depth	66.7368	-9.19345	-17.1822	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RAMY8	68.7554	-11.7928	-21.842026527275	-999	RAMY	R	depth	69.9221	-9.49573	-14.9101	n/a	middletemporal	n/a	n/a
+RH1	24.9557	-16.5948	-25.4678875874174	-999	RH	R	depth	26.9727	-19.7607	-18.5482	Right Cerebral White Matter	parahippocampal	n/a	n/a
+RH2	30.1441	-16.0977	-25.5677884088793	-999	RH	R	depth	32.1304	-18.2239	-18.026	Right Cerebral White Matter	parahippocampal	n/a	Right PRC
+RH3	35.5333	-17.5717	-26.2740626811211	-999	RH	R	depth	37.8685	-17.5393	-16.8945	Right Cerebral White Matter	fusiform	n/a	n/a
+RH4	40.6191	-17.1909	-26.606551207802	-999	RH	R	depth	43.0288	-16.1836	-17.2434	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+RH5	47.4966	-17.1161	-25.4770232918982	-999	RH	R	depth	48.7684	-15.5896	-16.5476	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+RH6	54.0829	-16.8587	-25.8625933322621	-999	RH	R	depth	53.9886	-15.2142	-16.7071	Right MTG middle temporal gyrus	inferiortemporal	n/a	n/a
+RH7	59.757	-16.5592	-25.282423040788	-999	RH	R	depth	59.7281	-14.6201	-16.0111	Right MTG middle temporal gyrus	inferiortemporal	n/a	n/a
+RH8	64.0061	-16.0951	-24.2154906228382	-999	RH	R	depth	63.9016	-14.1387	-15.2674	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+LAMY1	-28.7996	-2.94562	-32.2052693731844	-999	LAMY	L	depth	-31.0242	-6.53423	-24.2383	Left PHG parahippocampal gyrus	entorhinal	n/a	n/a
+LAMY2	-35.4788	-5.51151	-34.7963080935726	-999	LAMY	L	depth	-35.1403	-7.8148	-23.9212	Left FuG fusiform gyrus	entorhinal	n/a	Left PRC
+LAMY3	-43.6351	-7.69929	-33.3902690418281	-999	LAMY	L	depth	-40.8226	-9.208	-23.5563	Left Cerebral White Matter	entorhinal	n/a	n/a
+LAMY4	-46.2399	-10.9171	-32.4887432202666	-999	LAMY	L	depth	-45.9829	-10.5637	-23.2073	Left Cerebral White Matter	fusiform	n/a	n/a
+LAMY5	-50.253	-13.0783	-32.0792978865786	-999	LAMY	L	depth	-51.6652	-11.9569	-22.8423	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LAMY6	-55.6785	-12.5705	-29.016035075209	-999	LAMY	L	depth	-56.8296	-13.0409	-21.1864	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LAMY7	-60.7109	-11.5622	-26.9986783376623	-999	LAMY	L	depth	-61.0057	-13.3413	-21.0589	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LAMY8	-65.8468	-11.8883	-23.7551801451021	-999	LAMY	L	depth	-66.7533	-13.3922	-19.141	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LH1	-26.6541	-6.99646	-30.7854241461616	-999	LH	L	depth	-28.6338	-11.4661	-24.2255	Left Cerebral White Matter	n/a	n/a	n/a
+LH2	-34.3623	-9.13722	-33.9173429779294	-999	LH	L	depth	-33.8566	-11.6605	-23.1949	Left FuG fusiform gyrus	entorhinal	BA35	Left PRC
+LH3	-42.4654	-11.8427	-33.4927513450713	-999	LH	L	depth	-39.5389	-13.0537	-22.8299	Left Cerebral White Matter	fusiform	n/a	Left PRC
+LH4	-45.3517	-13.4201	-32.8298913201037	-999	LH	L	depth	-44.7591	-13.4291	-22.6705	Left FuG fusiform gyrus	fusiform	BA36	Left PRC
+LH5	-48.7457	-14.6704	-32.7013314909061	-999	LH	L	depth	-49.9793	-13.8046	-22.511	Left ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+LH6	-54.1149	-14.7165	-29.7361785538647	-999	LH	L	depth	-55.6656	-14.9263	-20.8391	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LH7	-60.9226	-13.5758	-27.509939665806	-999	LH	L	depth	-60.8859	-15.3017	-20.6797	Left MTG middle temporal gyrus	inferiortemporal	n/a	n/a
+LH8	-64.7967	-13.8139	-24.0088966926686	-999	LH	L	depth	-65.5894	-15.2775	-18.7938	Left MTG middle temporal gyrus	middletemporal	n/a	n/a

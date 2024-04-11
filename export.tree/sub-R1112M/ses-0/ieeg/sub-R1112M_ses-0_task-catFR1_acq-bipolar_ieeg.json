@@ -1,0 +1,20 @@
+{
+    "TaskName": "catFR1",
+    "Manufacturer": "n/a",
+    "PowerLineFrequency": 60.0,
+    "SamplingFrequency": 500.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 2828.392,
+    "RecordingType": "continuous",
+    "iEEGReference": "bipolar",
+    "ECOGChannelCount": 57,
+    "SEEGChannelCount": 15,
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "TaskDescription": "delayed free recall of categorized word lists",
+    "HardwareFilters": "n/a"
+}
