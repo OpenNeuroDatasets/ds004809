@@ -5,5 +5,11 @@
     "Authors": [
         "Haydn G. Herrema",
         "Michael J. Kahana"
-    ]
+    ],
+    "Funding": [
+        "DARPA RAM: N66001-14-2-4032",
+        "NIH: R01-NS-106611",
+        "NIH: U01-NS-113198"
+    ],
+    "License": "CC0"
 }
