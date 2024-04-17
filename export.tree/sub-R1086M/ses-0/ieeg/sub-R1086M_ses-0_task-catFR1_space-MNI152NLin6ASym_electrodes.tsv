@@ -1,0 +1,89 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+LIT1	-39.7167	26.3102	-31.7330336280624	-999	LIT	L	grid	-34.9591	31.2501	-23.4433	n/a	temporalpole	n/a	n/a
+LIT2	-47.4372	26.8279	-26.8694522426624	-999	LIT	L	grid	-41.712	26.8559	-16.9689	n/a	superiortemporal	n/a	n/a
+LIT3	-55.8039	21.1482	-21.6102315794395	-999	LIT	L	grid	-43.9409	19.9868	-9.8497	n/a	superiortemporal	n/a	n/a
+LIT4	-61.7359	14.6165	-12.5164745999065	-999	LIT	L	grid	-44.8591	11.8072	-1.93705	n/a	superiortemporal	n/a	n/a
+LIT5	-64.9916	9.15111	-4.13640710856118	-999	LIT	L	grid	-47.6854	4.77061	5.04357	n/a	superiortemporal	n/a	n/a
+LIT6	-68.2484	2.8023	3.71907672701025	-999	LIT	L	grid	-51.1096	-2.45296	11.4977	n/a	superiortemporal	n/a	n/a
+LIT7	-69.749	-5.37006	11.852317548217	-999	LIT	L	grid	-54.3654	-10.0726	18.7759	n/a	postcentral	n/a	n/a
+LIT8	-69.7776	-13.1828	17.4230224468474	-999	LIT	L	grid	-57.5502	-18.2144	26.1488	n/a	postcentral	n/a	n/a
+LIT9	-41.9075	22.3035	-43.0602761948716	-999	LIT	L	grid	-37.9431	22.2974	-28.4471	n/a	temporalpole	n/a	n/a
+LIT10	-48.993	21.2421	-35.9498706039088	-999	LIT	L	grid	-45.1746	19.7475	-23.6587	n/a	superiortemporal	n/a	n/a
+LIT11	-58.0353	16.9114	-26.244623671697	-999	LIT	L	grid	-48.3769	13.3898	-15.8241	n/a	middletemporal	n/a	n/a
+LIT12	-62.6012	9.37359	-16.3231169011469	-999	LIT	L	grid	-47.4188	4.70995	-9.43079	n/a	superiortemporal	n/a	n/a
+LIT13	-66.4971	0.0195737	-10.9269840144416	-999	LIT	L	grid	-49.1031	-3.26051	-2.86929	n/a	superiortemporal	n/a	n/a
+LIT14	-69.2956	-5.8025	-2.79395502384762	-999	LIT	L	grid	-52.3589	-10.8946	4.12093	n/a	superiortemporal	n/a	n/a
+LIT15	-70.6058	-12.8347	5.31319834314875	-999	LIT	L	grid	-54.5876	-17.7315	11.8838	n/a	superiortemporal	n/a	n/a
+LIT16	-70.5948	-21.942	9.78406242861597	-999	LIT	L	grid	-58.9145	-24.9624	19.2182	n/a	bankssts	n/a	n/a
+LST1	-33.5059	22.5192	-39.2300267938543	-999	LST	L	grid	-28.8652	26.7103	-30.2906	n/a	temporalpole	n/a	n/a
+LST2	-41.4451	19.3377	-44.0296547543539	-999	LST	L	grid	-37.8014	21.252	-28.2699	n/a	temporalpole	n/a	n/a
+LST3	-53.1861	18.1074	-39.3720050115967	-999	LST	L	grid	-45.7853	13.3709	-25.2095	n/a	middletemporal	n/a	n/a
+LST4	-59.6157	11.5609	-32.4691219060113	-999	LST	L	grid	-49.4045	5.87438	-20.6155	n/a	middletemporal	n/a	n/a
+LST5	-64.1575	4.56106	-24.2697415149473	-999	LST	L	grid	-49.8935	-1.71525	-12.8604	n/a	middletemporal	n/a	n/a
+LST6	-70.3589	-6.4175	-19.7502196866717	-999	LST	L	grid	-53.1492	-9.36479	-6.18037	n/a	middletemporal	n/a	n/a
+LST7	-69.9409	-12.4268	-10.1884489745092	-999	LST	L	grid	-55.2805	-16.1069	1.68047	n/a	middletemporal	n/a	n/a
+LST8	-70.9248	-19.8682	0.598937329884186	-999	LST	L	grid	-57.4649	-24.115	8.90269	n/a	superiortemporal	n/a	n/a
+LST9	-28.2662	12.611	-47.6825853765718	-999	LST	L	grid	-25.7053	17.5188	-35.9459	n/a	fusiform	n/a	n/a
+LST10	-39.3616	7.90822	-48.7948691467864	-999	LST	L	grid	-35.9078	12.2024	-35.2073	n/a	inferiortemporal	n/a	n/a
+LST11	-50.0464	6.70376	-46.7086680738303	-999	LST	L	grid	-43.0066	6.14676	-31.885	n/a	inferiortemporal	n/a	n/a
+LST12	-56.4355	2.29887	-38.1036253885156	-999	LST	L	grid	-48.5289	-1.49533	-26.349	n/a	middletemporal	n/a	n/a
+LST13	-62.6422	-4.19969	-30.9518683562762	-999	LST	L	grid	-52.2581	-8.56615	-19.0225	n/a	inferiortemporal	n/a	n/a
+LST14	-68.3021	-13.7512	-23.260925976406	-999	LST	L	grid	-55.5139	-16.2156	-12.3425	n/a	inferiortemporal	n/a	n/a
+LST15	-72.4102	-19.2188	-16.1281605319049	-999	LST	L	grid	-57.6985	-24.2534	-5.7119	n/a	middletemporal	n/a	n/a
+LST16	-72.1464	-24.4689	-8.4538406262688	-999	LST	L	grid	-59.9539	-31.7683	0.830042	n/a	middletemporal	n/a	n/a
+LATD1	-23.5148	-20.6457	-24.7225560857023	-999	LATD	L	depth	-21.1387	-23.5247	-16.2831	Left PHG parahippocampal gyrus	parahippocampal	n/a	Left PRC
+LATD2	-30.0303	-19.9829	-23.8260280798736	-999	LATD	L	depth	-26.7289	-21.927	-14.5461	Left Cerebral White Matter	parahippocampal	n/a	Left PRC
+LATD3	-34.3548	-19.2821	-22.3783589969149	-999	LATD	L	depth	-30.7745	-21.2961	-13.505	Left Cerebral White Matter	parahippocampal	n/a	Left CA1
+LATD4	-40.4159	-18.9253	-21.8985049205969	-999	LATD	L	depth	-35.7671	-19.5079	-11.1712	Left Cerebral White Matter	fusiform	BA36	Left PRC
+LMTD1	-23.1512	-36.4795	-9.05821582609694	-999	LMTD	L	depth	-24.1223	-37.7073	-2.82904	Left Cerebral White Matter	parahippocampal	PHC	Left PHC
+LMTD2	-27.4083	-32.2016	-11.4588340806688	-999	LMTD	L	depth	-26.885	-34.0413	-4.59313	Left Cerebral White Matter	parahippocampal	n/a	n/a
+LMTD3	-31.2804	-27.4236	-13.3761953193716	-999	LMTD	L	depth	-29.6921	-29.2068	-5.86858	Left Hippocampus	n/a	CA1	Left CA1
+LMTD4	-34.9833	-23.428	-15.5166303116155	-999	LMTD	L	depth	-32.5258	-25.0181	-7.72123	Left Hippocampus	n/a	DG	Left DG
+LPTD1	-26.8046	-31.138	-7.34286071270108	-999	LPTD	L	depth	-26.4416	-32.2566	-0.775362	Left Hippocampus	n/a	DG	Left DG
+LPTD2	-31.8578	-31.8728	-7.34861637900605	-999	LPTD	L	depth	-31.4433	-32.9287	-0.0847952	Left Hippocampus	n/a	DG	Left DG
+LPTD3	-36.6986	-32.5355	-5.96717485950181	-999	LPTD	L	depth	-36.3475	-33.4777	1.2716	Left Cerebral White Matter	n/a	n/a	n/a
+LPTD4	-40.8866	-34.2168	-5.05078814107283	-999	LPTD	L	depth	-41.2074	-35.1933	2.17519	Left Cerebral White Matter	n/a	n/a	n/a
+LAS1	-17.2223	4.46209	-27.94926058692	-999	LAS	L	strip	-15.1835	0.159543	-21.3351	n/a	entorhinal	n/a	n/a
+LAS2	-19.5981	1.02572	-38.8490258905572	-999	LAS	L	strip	-20.5945	-0.934701	-29.6156	n/a	entorhinal	n/a	n/a
+LAS3	-24.1248	-2.79534	-47.0877050977383	-999	LAS	L	strip	-26.8108	-1.91692	-36.4262	n/a	fusiform	n/a	n/a
+LAS4	-35.2882	-3.92675	-49.0585060589103	-999	LAS	L	strip	-36.89	-1.47295	-37.4659	n/a	inferiortemporal	n/a	n/a
+LMS1	-22.1569	-4.74969	-42.8709506174287	-999	LMS	L	strip	-24.6582	-5.22448	-31.8607	n/a	fusiform	n/a	n/a
+LMS2	-31.5972	-7.30292	-45.9908370883559	-999	LMS	L	strip	-33.7462	-7.1064	-34.6817	n/a	inferiortemporal	n/a	n/a
+LMS3	-45.7153	-6.97434	-45.3143842864417	-999	LMS	L	strip	-43.7937	-7.282	-32.8118	n/a	inferiortemporal	n/a	n/a
+LMS4	-55.6142	-3.80418	-39.8719053993007	-999	LMS	L	strip	-51.6581	-6.39351	-26.4886	n/a	inferiortemporal	n/a	n/a
+LPS1	-21.1559	-51.258	-10.852038097	-999	LPS	L	strip	-17.5754	-49.7285	-5.54628	n/a	lingual	n/a	n/a
+LPS2	-24.6539	-43.4269	-14.6514947538428	-999	LPS	L	strip	-26.7353	-46.0964	-11.4773	n/a	fusiform	n/a	n/a
+LPS3	-33.775	-41.8689	-20.9908430568759	-999	LPS	L	strip	-34.1289	-42.5389	-16.1952	n/a	fusiform	n/a	n/a
+LPS4	-45.2051	-36.6865	-28.3163533097305	-999	LPS	L	strip	-42.5669	-37.9472	-20.2864	n/a	fusiform	n/a	n/a
+LIOF1	27.1113	35.65	-24.8978599731208	-999	LIOF	R	strip	28.4256	34.3358	-11.6006	n/a	lateralorbitofrontal	n/a	n/a
+LIOF2	17.3993	37.807	-28.6459126864721	-999	LIOF	R	strip	18.4654	36.8145	-13.7295	n/a	lateralorbitofrontal	n/a	n/a
+LIOF3	4.98462	37.7423	-28.0449809031537	-999	LIOF	R	strip	8.81031	39.1137	-17.2591	n/a	medialorbitofrontal	n/a	n/a
+LIOF4	-1.0464	39.4287	-24.0202213349693	-999	LIOF	L	strip	-0.910551	40.6703	-18.5451	n/a	medialorbitofrontal	n/a	n/a
+LIOF5	-9.93119	42.206	-26.7901750667928	-999	LIOF	L	strip	-11.5025	41.596	-16.1176	n/a	lateralorbitofrontal	n/a	n/a
+LIOF6	-23.935	40.7171	-25.3175888921763	-999	LIOF	L	strip	-20.4965	42.8465	-13.2314	n/a	lateralorbitofrontal	n/a	n/a
+LIOF7	-34.5884	37.7115	-22.9331755236886	-999	LIOF	L	strip	-31.0617	44.4179	-10.2266	n/a	parsorbitalis	n/a	n/a
+LIOF8	-45.5275	40.8302	-19.9054823467494	-999	LIOF	L	strip	-39.5329	42.6558	-6.14313	n/a	parsorbitalis	n/a	n/a
+LSOF1	-5.21171	44.7601	-27.0041003522063	-999	LSOF	L	strip	-4.62887	49.7683	-16.3076	n/a	medialorbitofrontal	n/a	n/a
+LSOF2	-17.9583	46.5498	-24.2906102104891	-999	LSOF	L	strip	-15.0258	50.9404	-12.5483	n/a	lateralorbitofrontal	n/a	n/a
+LSOF3	-26.0428	46.3256	-21.9653532332882	-999	LSOF	L	strip	-23.8778	51.1457	-9.485	n/a	lateralorbitofrontal	n/a	n/a
+LSOF4	-38.225	49.0032	-19.4547539209333	-999	LSOF	L	strip	-34.5673	51.9481	-7.72329	n/a	parsorbitalis	n/a	n/a
+LSOF5	-47.3235	49.086	-16.0694281197831	-999	LSOF	L	strip	-39.2664	49.1245	-0.172328	n/a	parsorbitalis	n/a	n/a
+LSOF6	-53.93	48.1536	-3.64919389603358	-999	LSOF	L	strip	-40.4857	44.8901	9.25083	n/a	parstriangularis	n/a	n/a
+LSOF7	-57.0943	40.3865	7.76182310548749	-999	LSOF	L	strip	-40.5454	37.9248	17.5367	n/a	rostralmiddlefrontal	n/a	n/a
+LSOF8	-53.0647	37.321	21.9327699589426	-999	LSOF	L	strip	-40.4275	33.0322	28.4576	n/a	rostralmiddlefrontal	n/a	n/a
+LAF1	-14.8261	62.5579	34.5013105571108	-999	LAF	L	strip	-6.375	64.6942	39.4399	n/a	superiorfrontal	n/a	n/a
+LAF2	-24.5646	59.8277	30.7040599139996	-999	LAF	L	strip	-15.7239	61.8133	37.3359	n/a	rostralmiddlefrontal	n/a	n/a
+LAF3	-31.9854	55.1498	31.9356898977641	-999	LAF	L	strip	-24.2232	57.6421	33.0813	n/a	rostralmiddlefrontal	n/a	n/a
+LAF4	-42.138	54.6662	21.7123254556877	-999	LAF	L	strip	-32.2757	52.2402	27.4812	n/a	rostralmiddlefrontal	n/a	n/a
+LAF5	-49.9653	49.1467	15.8611506365038	-999	LAF	L	strip	-37.473	44.5611	21.9772	n/a	rostralmiddlefrontal	n/a	n/a
+LAF6	-55.6172	42.4175	10.4239289141516	-999	LAF	L	strip	-40.7405	37.6719	16.0774	n/a	rostralmiddlefrontal	n/a	n/a
+LAF7	-59.6631	36.8682	-0.963515954988918	-999	LAF	L	strip	-42.9191	28.5743	8.94577	n/a	parstriangularis	n/a	n/a
+LAF8	-59.048	24.4243	-7.44673606501281	-999	LAF	L	strip	-43.0438	21.0417	2.78321	n/a	parsopercularis	n/a	n/a
+LPF1	-12.8277	48.1872	50.7114341002213	-999	LPF	L	strip	-7.71641	49.7283	54.0676	n/a	superiorfrontal	n/a	n/a
+LPF2	-20.9486	44.0352	51.8445106950915	-999	LPF	L	strip	-16.9235	45.8025	52.1526	n/a	rostralmiddlefrontal	n/a	n/a
+LPF3	-28.8633	38.4718	50.7178309217511	-999	LPF	L	strip	-26.6841	40.5123	49.0427	n/a	rostralmiddlefrontal	n/a	n/a
+LPF4	-36.1467	36.6242	47.5157993228913	-999	LPF	L	strip	-33.0411	35.564	44.6761	n/a	rostralmiddlefrontal	n/a	n/a
+LPF5	-45.0486	35.5779	39.5523591986563	-999	LPF	L	strip	-38.5042	28.1544	37.6182	n/a	rostralmiddlefrontal	n/a	n/a
+LPF6	-51.5728	29.5222	34.0834791660748	-999	LPF	L	strip	-42.9405	21.5274	31.0449	n/a	caudalmiddlefrontal	n/a	n/a
+LPF7	-60.7622	22.1858	24.2471327306935	-999	LPF	L	strip	-47.0448	15.3632	23.5719	n/a	parsopercularis	n/a	n/a
+LPF8	-65.4539	14.5125	13.8934393177694	-999	LPF	L	strip	-49.6046	8.2285	15.3326	n/a	parsopercularis	n/a	n/a

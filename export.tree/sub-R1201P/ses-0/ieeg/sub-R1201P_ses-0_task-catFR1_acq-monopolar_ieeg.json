@@ -1,0 +1,20 @@
+{
+    "TaskName": "catFR1",
+    "Manufacturer": "Blackrock",
+    "PowerLineFrequency": 60.0,
+    "SamplingFrequency": 1000.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 3000.604,
+    "RecordingType": "continuous",
+    "iEEGReference": "monopolar",
+    "ECOGChannelCount": 85,
+    "SEEGChannelCount": 40,
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "TaskDescription": "delayed free recall of categorized word lists",
+    "HardwareFilters": "n/a"
+}
