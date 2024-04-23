@@ -1,8 +1,0 @@
-2.2.0 2024-04-23
-  - More informative event duration values for trial types with well defined durations.  Confirmed corrected response times for recall and math events.
-2.1.0 2024-04-17
-  - Added collaborator acknowledgements and grant funding.  Attempt to fix errors with response times for recall and math events.
-2.0.0 2024-04-11
-  - Resolved retrieval event sample issues.  Added brain region annotations.  258 participants, 583 total experimental sessions.
-1.0.0 2023-10-20
-  - Initial Release.  160 participants, 394 total experimental sessions.
