@@ -1,0 +1,61 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+LF1	-53.545	-29.7099	56.4090552790238	-999	LF	L	strip	-54.5732	-24.7599	55.9582	n/a	postcentral	n/a	n/a
+LF2	-60.4335	-26.5857	49.5118384206615	-999	LF	L	strip	-59.9476	-24.2189	47.4323	n/a	supramarginal	n/a	n/a
+LF3	-67.628	-24.087	35.7967320681964	-999	LF	L	strip	-63.4555	-23.7823	36.8267	n/a	supramarginal	n/a	n/a
+LF4	-70.1948	-23.1334	21.3336972508041	-999	LF	L	strip	-64.09	-23.3684	25.3765	n/a	supramarginal	n/a	n/a
+LF5	-69.9708	-22.6349	10.7023240524343	-999	LF	L	strip	-64.17	-22.9459	13.9824	n/a	supramarginal	n/a	n/a
+LF6	-70.4226	-18.6778	-0.735004704165211	-999	LF	L	strip	-64.25	-22.5235	2.58809	n/a	superiortemporal	n/a	n/a
+LAT1	-21.3196	2.93753	-39.9409059596116	-999	LAT	L	strip	-20.6386	0.19615	-34.9836	n/a	entorhinal	n/a	n/a
+LAT2	-24.4338	-4.21649	-42.3498321767571	-999	LAT	L	strip	-25.4189	-8.21872	-38.1688	n/a	fusiform	n/a	n/a
+LAT3	-32.7477	-11.077	-41.6547981263504	-999	LAT	L	strip	-33.9129	-14.8106	-37.6265	n/a	inferiortemporal	n/a	n/a
+LAT4	-44.3056	-14.1467	-40.8360006451046	-999	LAT	L	strip	-42.68	-18.5022	-34.1234	n/a	inferiortemporal	n/a	n/a
+LMT1	-18.9046	-27.6281	-17.8699135137346	-999	LMT	L	strip	-19.4091	-30.2907	-15.8796	n/a	parahippocampal	n/a	n/a
+LMT2	-26.2952	-23.8058	-26.4127028485504	-999	LMT	L	strip	-27.2106	-30.1696	-21.7969	n/a	fusiform	n/a	n/a
+LMT3	-35.7501	-19.6007	-37.5951153802753	-999	LMT	L	strip	-37.5282	-29.3574	-24.864	n/a	fusiform	n/a	n/a
+LMT4	-46.7723	-23.7397	-31.7569988814505	-999	LMT	L	strip	-46.9019	-25.1444	-25.9177	n/a	inferiortemporal	n/a	n/a
+LPT1	-24.3037	-61.6661	-12.7678627783243	-999	LPT	L	strip	-27.2379	-60.9211	-6.94947	n/a	lingual	n/a	n/a
+LPT2	-31.1284	-52.9505	-17.7031724118248	-999	LPT	L	strip	-33.943	-53.1067	-12.0669	n/a	fusiform	n/a	n/a
+LPT3	-36.9289	-45.2001	-19.6937447267604	-999	LPT	L	strip	-38.4498	-46.8917	-16.91	n/a	fusiform	n/a	n/a
+LPT4	-47.5812	-36.5482	-27.3912327946249	-999	LPT	L	strip	-44.1478	-39.001	-20.8996	n/a	inferiortemporal	n/a	n/a
+LDA1	-17.6893	-7.44929	-24.8460693104232	-999	LDA	L	depth	-14.7846	-10.4027	-21.5187	Left PHG parahippocampal gyrus	entorhinal	n/a	Left Sub
+LDA2	-22.3188	-7.42483	-25.5945606102913	-999	LDA	L	depth	-19.7741	-10.4765	-21.9773	Left Hippocampus	n/a	n/a	Left Sub
+LDA3	-27.3864	-8.38802	-26.2367591976338	-999	LDA	L	depth	-25.4196	-10.4986	-21.4611	Left Hippocampus	n/a	SUB	Left CA1
+LDA4	-31.8053	-9.74489	-29.6900447817994	-999	LDA	L	depth	-30.4092	-10.5725	-21.9198	Left Cerebral White Matter	entorhinal	BA35	Left PRC
+LDH1	-20.3282	-12.8048	-27.3417975599597	-999	LDH	L	depth	-18.5322	-16.5649	-23.6697	Left PHG parahippocampal gyrus	entorhinal	n/a	Left EC
+LDH2	-24.9288	-12.9389	-27.483601817587	-999	LDH	L	depth	-23.069	-16.5705	-23.0515	Left Cerebral White Matter	parahippocampal	n/a	Left EC
+LDH3	-29.5229	-13.9385	-29.7463246848514	-999	LDH	L	depth	-28.0585	-16.6444	-23.5102	Left PHG parahippocampal gyrus	parahippocampal	n/a	Left PRC
+LDH4	-35.5399	-13.8343	-29.9489544880957	-999	LDH	L	depth	-33.6914	-15.5783	-23.0408	Left FuG fusiform gyrus	fusiform	BA36	Left PRC
+LP3	-59.49	-62.0819	23.3966491998229	-999	LP	L	strip	-58.4568	-62.9936	27.6735	n/a	inferiorparietal	n/a	n/a
+LP4	-65.4538	-53.6309	14.6760248074413	-999	LP	L	strip	-62.2122	-57.4657	20.2313	n/a	supramarginal	n/a	n/a
+LP5	-69.1015	-48.3901	6.91353319486616	-999	LP	L	strip	-64.1774	-49.8007	11.7408	n/a	supramarginal	n/a	n/a
+LP6	-72.0665	-42.9175	-3.40707170838192	-999	LP	L	strip	-64.5938	-43.1339	4.58759	n/a	bankssts	n/a	n/a
+RF1	50.9119	33.5752	33.1448100745989	-999	RF	R	strip	46.8704	36.1977	28.3497	n/a	rostralmiddlefrontal	n/a	n/a
+RF2	55.7809	28.4073	27.7019345945737	-999	RF	R	strip	52.9538	29.9079	22.4199	n/a	rostralmiddlefrontal	n/a	n/a
+RF3	61.5305	18.9226	18.7453514998386	-999	RF	R	strip	57.4566	21.8956	15.268	n/a	parsopercularis	n/a	n/a
+RF4	63.9818	11.1615	10.4629408844451	-999	RF	R	strip	59.0794	13.3619	8.98361	n/a	precentral	n/a	n/a
+RF5	66.0388	0.254684	6.68211789090699	-999	RF	R	strip	61.8237	5.93326	2.76475	n/a	precentral	n/a	n/a
+RF6	66.2907	-4.63498	-1.81392157825926	-999	RF	R	strip	62.3378	-2.60096	-3.30508	n/a	superiortemporal	n/a	n/a
+RAT1	15.6342	-20.0335	-19.2168853890638	-999	RAT	R	strip	16.1278	-21.3686	-18.1729	n/a	parahippocampal	n/a	n/a
+RAT2	22.8075	-22.2506	-27.4878190881693	-999	RAT	R	strip	25.047	-22.1495	-23.5403	n/a	parahippocampal	n/a	n/a
+RAT3	30.8593	-23.033	-34.0978016027541	-999	RAT	R	strip	33.7694	-22.2664	-26.8794	n/a	inferiortemporal	n/a	n/a
+RAT4	40.2916	-20.6308	-34.9643543339426	-999	RAT	R	strip	44.5252	-20.5983	-28.0331	n/a	inferiortemporal	n/a	n/a
+RMT1	17.3993	-30.7919	-16.3029182002496	-999	RMT	R	strip	20.0164	-33.0325	-13.1465	n/a	parahippocampal	n/a	n/a
+RMT2	25.3323	-31.4731	-23.3276429218905	-999	RMT	R	strip	27.8586	-31.1095	-18.733	n/a	fusiform	n/a	n/a
+RMT3	35.273	-29.0251	-31.3349295734496	-999	RMT	R	strip	37.7089	-29.5778	-22.0404	n/a	fusiform	n/a	n/a
+RMT4	42.3209	-24.3952	-30.784128780138	-999	RMT	R	strip	47.3878	-25.2057	-23.413	n/a	inferiortemporal	n/a	n/a
+RPT1	55.4912	-66.8177	-15.059649642877	-999	RPT	R	strip	54.8233	-63.8832	-5.44904	n/a	lateraloccipital	n/a	n/a
+RPT2	55.1322	-66.7418	-17.418024868783	-999	RPT	R	strip	57.1917	-56.0576	-11.8027	n/a	inferiortemporal	n/a	n/a
+RPT3	59.4434	-45.0568	-27.3438179929532	-999	RPT	R	strip	58.9041	-48.1801	-17.1814	n/a	inferiortemporal	n/a	n/a
+RPT4	68.0126	-37.8208	-23.1613197022084	-999	RPT	R	strip	59.33	-38.0228	-20.7039	n/a	inferiortemporal	n/a	n/a
+RDNET1	24.3633	-3.20269	-45.7945452996707	-999	RDNET	R	depth	25.1182	-5.11977	-39.8543	Right FuG fusiform gyrus	inferiortemporal	n/a	n/a
+RDNET2	28.9547	-4.28447	-46.1052548581473	-999	RDNET	R	depth	29.0877	-6.21047	-40.4766	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+RDNET3	36.0139	-3.79739	-44.3883305430277	-999	RDNET	R	depth	34.6253	-6.67245	-39.9436	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+RDNET4	42.486	-4.32983	-43.8445642850809	-999	RDNET	R	depth	39.6022	-7.68678	-39.4381	Right ITG inferior temporal gyrus	inferiortemporal	n/a	n/a
+RDA1	13.2547	-9.9132	-22.3618017129678	-999	RDA	R	depth	12.3682	-11.0888	-18.9744	Right PHG parahippocampal gyrus	entorhinal	n/a	n/a
+RDA2	18.0852	-9.76283	-24.0279396589963	-999	RDA	R	depth	17.4593	-11.0749	-19.5417	Right Hippocampus	n/a	SUB	Right Sub
+RDA3	23.0123	-10.4051	-26.0279339672753	-999	RDA	R	depth	23.2064	-11.1128	-21.0839	Right Hippocampus	n/a	SUB	Right Sub
+RDA4	26.4423	-11.0404	-26.280608553938	-999	RDA	R	depth	27.1888	-11.1153	-21.753	Right Cerebral White Matter	n/a	n/a	Right Sub
+RDH1	23.9853	-15.7578	-28.9611414808199	-999	RDH	R	depth	24.5499	-17.2611	-23.802	Right Cerebral White Matter	entorhinal	ERC	Right EC
+RDH2	26.9264	-16.6857	-27.5634479263734	-999	RDH	R	depth	28.3291	-17.1437	-22.4194	Right PHG parahippocampal gyrus	parahippocampal	BA35	Right PRC
+RDH3	30.4611	-18.4364	-26.7266991699438	-999	RDH	R	depth	33.2171	-17.0098	-20.9348	Right Hippocampus	parahippocampal	sulcus	Right PRC
+RDH4	35.6969	-18.5923	-22.4942121871072	-999	RDH	R	depth	38.5578	-16.8078	-18.3733	Right Cerebral White Matter	fusiform	BA36	Right PRC

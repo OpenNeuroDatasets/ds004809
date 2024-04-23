@@ -1,0 +1,37 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+RAFA1	10.7779	31.0292	14.8525627282972	-999	RAFA	R	depth	46.6061	-31.4874	-37.7426	Right Cerebral White Matter	medialorbitofrontal	n/a	n/a
+RAFA2	13.4558	35.0202	22.517390119512	-999	RAFA	R	depth	47.7265	-32.4183	-41.1174	Right Cerebral White Matter	medialorbitofrontal	n/a	n/a
+RAFA3	12.6053	39.3354	27.3217497645097	-999	RAFA	R	depth	49.7002	-33.2234	-43.5034	Right Cerebral White Matter	medialorbitofrontal	n/a	n/a
+RAFA4	12.1222	41.6977	31.1609316637491	-999	RAFA	R	depth	50.5145	-34.5004	-45.755	Right Cerebral White Matter	frontalpole	n/a	n/a
+RAFB1	16.4547	23.849	24.2021093073186	-999	RAFB	R	depth	37.7358	-35.4313	-41.7794	Right Cerebral White Matter	lateralorbitofrontal	n/a	n/a
+RAFB2	18.0034	25.907	30.6139063664184	-999	RAFB	R	depth	38.0833	-36.6768	-45.0648	Right Cerebral White Matter	frontalpole	n/a	n/a
+RAFB3	16.5243	27.6116	36.6500390193269	-999	RAFB	R	depth	38.9306	-39.3821	-46.9457	Right Cerebral White Matter	superiorfrontal	n/a	n/a
+RAFB4	17.2097	28.63	41.5553957513022	-999	RAFB	R	depth	39.3585	-40.8165	-49.1526	Right Cerebral White Matter	superiorfrontal	n/a	n/a
+RAFC1	17.1115	28.5054	16.1532449761555	-999	RAFC	R	depth	42.5386	-27.3212	-42.3896	Right Cerebral White Matter	rostralmiddlefrontal	n/a	n/a
+RAFC2	19.9763	30.9594	20.4365902410951	-999	RAFC	R	depth	43.1951	-26.8048	-45.3631	Right Cerebral White Matter	rostralmiddlefrontal	n/a	n/a
+RAFC3	24.0257	31.7743	24.4498324321341	-999	RAFC	R	depth	42.8734	-26.0493	-49.6766	Right MFG middle frontal gyrus	rostralmiddlefrontal	n/a	n/a
+RAFC4	26.1036	34.2108	28.9095418279702	-999	RAFC	R	depth	43.6995	-26.074	-53.0263	Right MFG middle frontal gyrus	rostralmiddlefrontal	n/a	n/a
+RAFD1	36.6739	19.3959	32.5563768680924	-999	RAFD	R	depth	29.8921	-29.4204	-52.5333	Right Cerebral White Matter	rostralmiddlefrontal	n/a	n/a
+RAFD2	39.0667	22.4265	36.4308584357689	-999	RAFD	R	depth	29.401	-28.1237	-56.4706	Right Cerebral White Matter	rostralmiddlefrontal	n/a	n/a
+RAFD3	42.2543	24.7203	39.9194004517956	-999	RAFD	R	depth	29.0348	-27.192	-60.0568	Right MFG middle frontal gyrus	rostralmiddlefrontal	n/a	n/a
+RAFD4	45.4578	25.7546	44.5448031828524	-999	RAFD	R	depth	28.7936	-26.6253	-63.292	n/a	rostralmiddlefrontal	n/a	n/a
+RPFA1	17.3395	23.2957	-21.4554488490565	-999	RPFA	R	depth	33.4517	-10.5546	-24.5067	n/a	lateralorbitofrontal	n/a	n/a
+RPFA2	20.724	24.3637	-17.4927868189442	-999	RPFA	R	depth	33.9028	-9.48443	-28.9097	Right POrG posterior orbital gyrus	lateralorbitofrontal	n/a	n/a
+RPFA3	22.8062	23.9283	-12.5688703104162	-999	RPFA	R	depth	33.5366	-8.55268	-32.4959	Right Cerebral White Matter	lateralorbitofrontal	n/a	n/a
+RPFA4	24.2265	24.2823	-8.63472095568816	-999	RPFA	R	depth	33.2955	-7.98603	-35.7311	Right POrG posterior orbital gyrus	lateralorbitofrontal	n/a	n/a
+RPFB1	24.3038	24.1029	-11.1809961872218	-999	RPFB	R	depth	33.2065	-7.63372	-34.2765	Right Cerebral White Matter	lateralorbitofrontal	n/a	n/a
+RPFB2	27.1334	23.0431	-7.51926413688468	-999	RPFB	R	depth	31.2946	-7.33113	-37.6838	Right Cerebral White Matter	lateralorbitofrontal	n/a	n/a
+RPFB3	33.1825	22.7936	-5.10844263794319	-999	RPFB	R	depth	30.111	-6.53795	-40.4533	Right AIns anterior insula	lateralorbitofrontal	n/a	n/a
+RPFC1	18.4639	23.4865	-21.7375783013649	-999	RPFC	R	depth	33.2018	-9.82463	-25.2089	Right MOrG medial orbital gyrus	lateralorbitofrontal	n/a	n/a
+RPFC2	23.9761	23.722	-21.4143234949476	-999	RPFC	R	depth	32.2469	-7.08075	-28.745	Right POrG posterior orbital gyrus	lateralorbitofrontal	n/a	n/a
+RPFC3	29.4689	23.1913	-18.3063780563315	-999	RPFC	R	depth	31.3365	-4.51301	-33.0082	Right POrG posterior orbital gyrus	lateralorbitofrontal	n/a	n/a
+RA1	20.7281	-0.611223	-30.7732800799585	-999	RA	R	depth	14.8266	-12.0898	-15.1648	Right Ent entorhinal area	entorhinal	n/a	Right MTL WM
+RA2	25.7613	0.917041	-31.7369924931752	-999	RA	R	depth	15.1229	-7.81077	-18.8547	Right Cerebral White Matter	entorhinal	n/a	Right MTL WM
+RA3	30.0239	2.37398	-30.6628521207023	-999	RA	R	depth	15.1908	-5.4823	-21.7781	Right Cerebral White Matter	entorhinal	n/a	n/a
+RA4	37.4802	6.80736	-29.2956457702997	-999	RA	R	depth	15.4871	-1.20327	-25.468	Right Cerebral White Matter	temporalpole	n/a	n/a
+RH1	23.757	-10.8368	-26.330742271785	-999	RH	R	depth	7.32386	-14.7003	-16.4715	Right Cerebral White Matter	n/a	SUB	Right Sub
+RH2	28.6527	-12.1339	-26.8461572312381	-999	RH	R	depth	5.76854	-11.3965	-18.8593	Right Cerebral White Matter	entorhinal	n/a	Right MTL WM
+RH3	32.0552	-16.6497	-26.9497742527581	-999	RH	R	depth	2.32564	-9.05532	-21.7507	Right FuG fusiform gyrus	entorhinal	BA36	Right PRC
+RH4	36.2976	-18.0508	-25.1672002439661	-999	RH	R	depth	-0.38894	-6.22341	-24.0043	Right FuG fusiform gyrus	fusiform	BA36	Right PRC
+LAF1	-17.8343	31.506	9.76189391163698	-999	LAF	L	depth	53.492	-48.8943	-18.0954	Left Cerebral White Matter	rostralmiddlefrontal	n/a	n/a
+LAF2	-21.2815	35.5058	16.4390367139513	-999	LAF	L	depth	55.7368	-53.1101	-18.3104	Left Cerebral White Matter	rostralmiddlefrontal	n/a	n/a

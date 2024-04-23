@@ -1,0 +1,127 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+LG1	-38.5313	44.8581	34.5228706813425	-999	LG	L	grid	-30.9147	47.5495	28.7319	n/a	rostralmiddlefrontal	n/a	n/a
+LG2	-45.8236	33.8089	34.1250460421919	-999	LG	L	grid	-34.4438	36.7594	32.0455	n/a	rostralmiddlefrontal	n/a	n/a
+LG3	-47.228	26.4686	38.6607376225587	-999	LG	L	grid	-38.9676	27.5122	35.7149	n/a	caudalmiddlefrontal	n/a	n/a
+LG4	-50.6277	16.4716	40.9378725023342	-999	LG	L	grid	-42.4355	17.9975	38.1605	n/a	precentral	n/a	n/a
+LG5	-52.7479	7.1044	44.5502812083734	-999	LG	L	grid	-42.8477	7.60247	41.5697	n/a	precentral	n/a	n/a
+LG6	-58.9574	-7.80601	42.883253752558	-999	LG	L	grid	-45.7984	-1.93016	44.0118	n/a	precentral	n/a	n/a
+LG7	-59.0382	-16.9779	44.2624797801304	-999	LG	L	grid	-46.2108	-12.3251	47.4209	n/a	precentral	n/a	n/a
+LG8	-58.1785	-24.4855	46.9442586557922	-999	LG	L	grid	-47.6362	-22.9161	49.6201	n/a	postcentral	n/a	n/a
+LG9	-48.0872	45.9523	20.6267596277412	-999	LG	L	grid	-35.895	45.6419	17.816	n/a	rostralmiddlefrontal	n/a	n/a
+LG10	-51.0372	35.1864	23.8813708983307	-999	LG	L	grid	-38.3497	36.3232	21.4715	n/a	rostralmiddlefrontal	n/a	n/a
+LG11	-57.1552	24.0579	27.2696819579102	-999	LG	L	grid	-41.8789	25.5332	24.7851	n/a	parsopercularis	n/a	n/a
+LG12	-57.7986	15.8348	30.2181823607222	-999	LG	L	grid	-44.8509	16.2323	28.444	n/a	parsopercularis	n/a	n/a
+LG13	-59.6487	7.51673	35.7005176646248	-999	LG	L	grid	-46.2764	5.64136	30.6433	n/a	precentral	n/a	n/a
+LG14	-60.7316	-4.50795	35.3242801385395	-999	LG	L	grid	-48.6964	-3.40683	33.1984	n/a	postcentral	n/a	n/a
+LG15	-63.3452	-15.3446	35.6430664175844	-999	LG	L	grid	-50.1566	-14.2684	36.4981	n/a	supramarginal	n/a	n/a
+LG16	-63.6784	-23.5246	37.2857771911365	-999	LG	L	grid	-50.5608	-25.3974	38.5741	n/a	supramarginal	n/a	n/a
+LG17	-54.7334	43.231	-5.17032783081301	-999	LG	L	grid	-40.7234	45.3189	2.61465	n/a	rostralmiddlefrontal	n/a	n/a
+LG18	-58.9226	34.4177	1.19163119086539	-999	LG	L	grid	-41.1518	36.3924	8.68972	n/a	parstriangularis	n/a	n/a
+LG19	-61.6175	23.8195	3.84713192913236	-999	LG	L	grid	-42.628	26.9991	14.6555	n/a	parstriangularis	n/a	n/a
+LG20	-63.7015	18.0347	13.0768482187737	-999	LG	L	grid	-44.6002	17.392	19.4079	n/a	parsopercularis	n/a	n/a
+LG21	-64.8226	7.16686	22.1663137738453	-999	LG	L	grid	-46.1112	7.72816	26.4742	n/a	precentral	n/a	n/a
+LG22	-64.7115	-2.71453	28.430809734073	-999	LG	L	grid	-47.6007	-2.16735	32.3236	n/a	precentral	n/a	n/a
+LG23	-64.8463	-10.8327	31.8505971551301	-999	LG	L	grid	-49.0291	-10.7877	37.3052	n/a	postcentral	n/a	n/a
+LG24	-64.3356	-19.6327	36.2566442349721	-999	LG	L	grid	-47.3671	-20.0176	42.1496	n/a	postcentral	n/a	n/a
+LG25	-55.8743	37.1024	-12.3036619741502	-999	LG	L	grid	-44.261	41.3287	-6.07866	n/a	parstriangularis	n/a	n/a
+LG26	-58.192	27.4427	-7.34854451915812	-999	LG	L	grid	-44.6946	31.1478	-1.80998	n/a	parstriangularis	n/a	n/a
+LG27	-58.258	18.2663	-4.29926583096332	-999	LG	L	grid	-45.1232	22.22	4.24127	n/a	parsopercularis	n/a	n/a
+LG28	-63.8513	13.1438	2.63142712988255	-999	LG	L	grid	-47.6207	13.3649	10.3302	n/a	parsopercularis	n/a	n/a
+LG29	-67.2398	3.68054	11.6268171499551	-999	LG	L	grid	-49.1235	2.96697	16.0634	n/a	precentral	n/a	n/a
+LG30	-67.3742	-5.48302	19.5833122811136	-999	LG	L	grid	-51.5943	-4.88349	22.3849	n/a	postcentral	n/a	n/a
+LG31	-68.0179	-15.2646	25.6610514585085	-999	LG	L	grid	-52.0628	-15.3171	28.1111	n/a	supramarginal	n/a	n/a
+LG32	-67.6504	-25.6495	29.2587441807585	-999	LG	L	grid	-52.4565	-23.9732	33.0857	n/a	supramarginal	n/a	n/a
+LG33	-52.0861	22.4186	-27.1635662707093	-999	LG	L	grid	-39.8276	20.388	-23.1734	n/a	superiortemporal	n/a	n/a
+LG34	-58.3949	19.264	-16.3930906296639	-999	LG	L	grid	-44.8743	15.061	-14.7142	n/a	superiortemporal	n/a	n/a
+LG35	-62.4366	12.2982	-7.85790728885717	-999	LG	L	grid	-48.3959	8.67695	-6.47229	n/a	superiortemporal	n/a	n/a
+LG36	-65.6651	3.94561	-3.22902380037579	-999	LG	L	grid	-50.8565	3.27086	2.17421	n/a	precentral	n/a	n/a
+LG37	-67.2256	-2.839	5.46031733738322	-999	LG	L	grid	-52.3357	-4.15174	10.9223	n/a	superiortemporal	n/a	n/a
+LG38	-68.7483	-11.8125	10.4418444488577	-999	LG	L	grid	-52.7669	-11.1077	19.7796	n/a	postcentral	n/a	n/a
+LG39	-68.6645	-14.9256	21.4079820072434	-999	LG	L	grid	-52.0893	-16.3218	27.8786	n/a	supramarginal	n/a	n/a
+LG40	-66.7472	-26.9526	32.8047991356294	-999	LG	L	grid	-50.5261	-25.1269	37.4737	n/a	supramarginal	n/a	n/a
+LG41	-52.8619	18.602	-38.9590789662724	-999	LG	L	grid	-43.5223	13.5862	-28.8407	n/a	superiortemporal	n/a	n/a
+LG42	-58.3533	15.7777	-22.8794042644263	-999	LG	L	grid	-48.0784	7.23795	-20.5926	n/a	superiortemporal	n/a	n/a
+LG43	-60.8304	9.85287	-14.8043633267211	-999	LG	L	grid	-50.5043	2.09692	-13.1551	n/a	superiortemporal	n/a	n/a
+LG44	-64.9125	-1.93107	-11.6524721053277	-999	LG	L	grid	-53.0393	-5.09978	-4.01724	n/a	superiortemporal	n/a	n/a
+LG45	-67.9745	-8.91658	-6.95404945625057	-999	LG	L	grid	-54.4572	-11.2675	3.45706	n/a	superiortemporal	n/a	n/a
+LG46	-69.0351	-15.0962	4.89168302059068	-999	LG	L	grid	-55.9098	-17.6853	12.4377	n/a	superiortemporal	n/a	n/a
+LG47	-68.4669	-23.545	16.4220416023706	-999	LG	L	grid	-55.3199	-25.1793	21.1719	n/a	supramarginal	n/a	n/a
+LG48	-67.3968	-32.9499	22.1523236489848	-999	LG	L	grid	-53.7088	-33.2116	29.7828	n/a	supramarginal	n/a	n/a
+LG49	-46.4296	9.44684	-50.2641795374594	-999	LG	L	grid	-40.9488	7.8491	-35.3432	n/a	inferiortemporal	n/a	n/a
+LG50	-56.6301	4.11686	-43.0977962140797	-999	LG	L	grid	-48.0271	0.910569	-30.4103	n/a	middletemporal	n/a	n/a
+LG51	-62.8326	-2.0533	-31.8910925577273	-999	LG	L	grid	-52.575	-6.16591	-23.3764	n/a	middletemporal	n/a	n/a
+LG52	-67.8083	-9.37985	-23.8344435899266	-999	LG	L	grid	-54.0115	-14.0778	-17.5754	n/a	middletemporal	n/a	n/a
+LG53	-70.628	-17.2974	-18.671472239373	-999	LG	L	grid	-58.4982	-19.8756	-11.3397	n/a	middletemporal	n/a	n/a
+LG54	-70.5333	-24.3442	-7.66241365650282	-999	LG	L	grid	-58.903	-25.865	-3.01226	n/a	middletemporal	n/a	n/a
+LG55	-69.0168	-30.7535	0.542703281123181	-999	LG	L	grid	-58.2947	-31.6408	6.87834	n/a	bankssts	n/a	n/a
+LG56	-67.203	-37.4525	10.6884478558498	-999	LG	L	grid	-56.6438	-38.1659	15.8382	n/a	superiortemporal	n/a	n/a
+LG57	-41.5549	0.625431	-53.7951129835668	-999	LG	L	grid	-36.9938	-1.27621	-39.3566	n/a	inferiortemporal	n/a	n/a
+LG58	-51.3318	-3.2774	-47.7683150290693	-999	LG	L	grid	-46.0319	-6.0875	-36.1116	n/a	inferiortemporal	n/a	n/a
+LG59	-60.9831	-8.14006	-38.167036542812	-999	LG	L	grid	-53.6141	-12.5063	-31.0716	n/a	inferiortemporal	n/a	n/a
+LG60	-65.2488	-16.129	-31.9423988436189	-999	LG	L	grid	-56.0984	-20.8842	-25.3683	n/a	middletemporal	n/a	n/a
+LG61	-67.9057	-23.9696	-24.9561192730763	-999	LG	L	grid	-58.5775	-28.0322	-18.3468	n/a	inferiortemporal	n/a	n/a
+LG62	-70.009	-31.0595	-14.0268612571039	-999	LG	L	grid	-60.0727	-34.0348	-7.89689	n/a	middletemporal	n/a	n/a
+LG63	-71.1037	-39.6527	-6.33871299635911	-999	LG	L	grid	-59.4562	-40.5616	0.320253	n/a	bankssts	n/a	n/a
+LG64	-67.9494	-46.0434	1.46070924479857	-999	LG	L	grid	-57.792	-46.5926	9.23387	n/a	bankssts	n/a	n/a
+LF6	-29.1192	66.898	10.4011056705609	-999	LF	L	strip	-23.3927	73.1489	7.91533	n/a	rostralmiddlefrontal	n/a	n/a
+LF7	-37.1882	60.8675	10.293752953485	-999	LF	L	strip	-28.9193	66.1786	13.2735	n/a	rostralmiddlefrontal	n/a	n/a
+LF8	-37.2949	56.5895	20.9547709447215	-999	LF	L	strip	-31.4086	56.5893	18.0294	n/a	rostralmiddlefrontal	n/a	n/a
+LOF1	19.1499	22.2388	-32.3960684104959	-999	LOF	R	strip	18.6191	20.3282	-20.9898	n/a	lateralorbitofrontal	n/a	n/a
+LOF2	7.04633	20.88	-28.2909563765758	-999	LOF	R	strip	7.79954	20.2503	-23.1454	n/a	medialorbitofrontal	n/a	n/a
+LOF3	-6.55421	23.4615	-27.657686581118	-999	LOF	L	strip	-1.44977	21.8504	-23.8879	n/a	medialorbitofrontal	n/a	n/a
+LOF4	-16.4439	26.1474	-29.2822886897593	-999	LOF	L	strip	-12.2936	23.9571	-22.4008	n/a	lateralorbitofrontal	n/a	n/a
+LOF5	-26.017	29.6738	-31.4239107690726	-999	LOF	L	strip	-22.6894	25.4954	-18.9046	n/a	lateralorbitofrontal	n/a	n/a
+LOF6	-35.8597	28.8893	-28.5806074457688	-999	LOF	L	strip	-32.4988	27.5664	-17.4236	n/a	lateralorbitofrontal	n/a	n/a
+LAT1	-15.8103	-4.21354	-32.1016656341534	-999	LAT	L	strip	-18.4017	-7.06925	-24.5864	n/a	entorhinal	n/a	n/a
+LAT2	-19.3208	-3.03397	-42.5303768633186	-999	LAT	L	strip	-23.2093	-2.4064	-33.195	n/a	entorhinal	n/a	n/a
+LAT3	-22.4823	0.0783747	-51.8093483193865	-999	LAT	L	strip	-27.5608	0.959797	-41.0085	n/a	fusiform	n/a	n/a
+LAT4	-33.6155	5.63718	-56.1523971914387	-999	LAT	L	strip	-36.8182	3.28817	-40.5367	n/a	inferiortemporal	n/a	n/a
+LMT1	-16.0525	-14.4445	-29.6393610215446	-999	LMT	L	strip	-18.7609	-15.4698	-21.0119	n/a	parahippocampal	n/a	n/a
+LMT2	-21.9506	-9.98047	-42.3205108685902	-999	LMT	L	strip	-25.2346	-14.039	-29.2291	n/a	entorhinal	n/a	n/a
+LMT3	-28.9804	-7.66121	-49.1096619725256	-999	LMT	L	strip	-32.2336	-11.8622	-36.229	n/a	fusiform	n/a	n/a
+LMT4	-39.6199	-6.48415	-52.1351333657288	-999	LMT	L	strip	-39.2834	-8.50427	-39.7944	n/a	inferiortemporal	n/a	n/a
+LPT1	-60.3006	-53.0371	-27.433103828842	-999	LPT	L	strip	-56.4712	-55.4768	-13.4006	n/a	inferiortemporal	n/a	n/a
+LPT2	-63.5549	-40.8979	-26.0764693153225	-999	LPT	L	strip	-60.2235	-45.9299	-16.7425	n/a	inferiortemporal	n/a	n/a
+LPT3	-67.1538	-30.7961	-27.127078218274	-999	LPT	L	strip	-59.8325	-35.296	-18.7908	n/a	inferiortemporal	n/a	n/a
+LPT4	-66.5979	-23.7907	-27.2745184589592	-999	LPT	L	strip	-58.4816	-26.4782	-20.1511	n/a	inferiortemporal	n/a	n/a
+LP5	-43.2807	-42.6457	61.4475833667251	-999	LP	L	strip	-41.7666	-37.7945	65.9569	n/a	superiorparietal	n/a	n/a
+LP6	-50.9322	-32.9196	55.7477235516434	-999	LP	L	strip	-44.4416	-28.7607	59.9026	n/a	postcentral	n/a	n/a
+LO7	-45.9611	-70.3371	44.0530898199121	-999	LO	L	strip	-44.427	-69.4477	48.1593	n/a	inferiorparietal	n/a	n/a
+LO8	-51.0242	-63.1365	40.7353436281174	-999	LO	L	strip	-48.8005	-60.7083	47.8501	n/a	inferiorparietal	n/a	n/a
+LDA1	-13.8823	-5.89469	-16.0420633251669	-999	LDA	L	depth	-12.5735	-7.12329	-9.705	Left Amygdala	n/a	n/a	Left Amy
+LDA2	-19.2591	-6.62729	-15.2283348224067	-999	LDA	L	depth	-17.8072	-8.22345	-8.87604	Left Amygdala	n/a	n/a	Left Amy
+LDA3	-23.3454	-6.39584	-15.0324922452082	-999	LDA	L	depth	-21.9452	-8.08058	-8.85123	Left Amygdala	n/a	n/a	Left Amy
+LDA4	-29.3776	-7.91498	-15.1191374900084	-999	LDA	L	depth	-27.6615	-8.8876	-9.02531	Left Cerebral White Matter	n/a	n/a	n/a
+LDH1	-15.9194	-13.662	-14.5519061618778	-999	LDH	L	depth	-13.9244	-15.9411	-8.3446	Left Ventral DC	n/a	n/a	n/a
+LDH2	-20.8272	-14.7517	-15.2522628163171	-999	LDH	L	depth	-19.1234	-16.766	-8.52174	Left Hippocampus	n/a	n/a	Left CA3
+LDH3	-25.1914	-15.4439	-16.9060272219817	-999	LDH	L	depth	-24.288	-17.3156	-9.70515	Left Hippocampus	n/a	DG	Left DG
+LDH4	-30.5775	-16.6767	-17.5585287494709	-999	LDH	L	depth	-30.0043	-18.1226	-9.87923	Left Hippocampus	n/a	DG	Left DG
+RF4	29.7248	67.7928	10.5538231558759	-999	RF	R	strip	29.8497	71.0371	8.65879	n/a	rostralmiddlefrontal	n/a	n/a
+RF5	32.7622	61.0546	21.2164303248293	-999	RF	R	strip	34.0817	63.186	16.152	n/a	rostralmiddlefrontal	n/a	n/a
+RF6	32.408	54.0178	31.6018935193909	-999	RF	R	strip	36.7833	55.1568	22.4388	n/a	rostralmiddlefrontal	n/a	n/a
+ROF1	41.3852	52.2108	23.0315351013309	-999	ROF	R	strip	42.0147	53.0462	17.3047	n/a	rostralmiddlefrontal	n/a	n/a
+ROF2	38.0551	59.6204	15.4941310803237	-999	ROF	R	strip	40.3476	61.0396	11.0109	n/a	rostralmiddlefrontal	n/a	n/a
+ROF3	37.3273	62.9133	5.30226068038232	-999	ROF	R	strip	37.6274	67.3299	3.15844	n/a	rostralmiddlefrontal	n/a	n/a
+ROF4	29.2658	68.0619	-5.18407616108637	-999	ROF	R	strip	31.2468	72.2445	-4.89695	n/a	rostralmiddlefrontal	n/a	n/a
+ROF5	21.2717	69.6358	-13.1952234787151	-999	ROF	R	strip	24.2079	72.916	-12.209	n/a	rostralmiddlefrontal	n/a	n/a
+ROF6	15.9065	68.4582	-18.3318284360962	-999	ROF	R	strip	17.1211	72.8107	-18.6188	n/a	frontalpole	n/a	n/a
+RAT1	18.0271	5.91921	-37.9097359675413	-999	RAT	R	strip	20.4392	3.61956	-31.8941	n/a	entorhinal	n/a	n/a
+RAT2	20.3075	1.19705	-48.1828086228813	-999	RAT	R	strip	26.7346	0.541178	-38.9042	n/a	fusiform	n/a	n/a
+RAT3	32.8229	-0.453392	-50.7283972108835	-999	RAT	R	strip	36.544	-1.52975	-40.3853	n/a	inferiortemporal	n/a	n/a
+RAT4	45.3658	0.0364792	-48.4860103180387	-999	RAT	R	strip	45.6893	-3.95569	-36.6242	n/a	inferiortemporal	n/a	n/a
+RMT1	12.8997	-2.06307	-28.1505469792513	-999	RMT	R	strip	18.7552	-7.44908	-20.368	n/a	entorhinal	n/a	n/a
+RMT2	24.065	-8.95079	-39.8707553048344	-999	RMT	R	strip	25.0799	-11.4821	-29.7026	n/a	entorhinal	n/a	n/a
+RMT3	30.6353	-12.1024	-41.1750898278899	-999	RMT	R	strip	33.9055	-14.6985	-34.6119	n/a	fusiform	n/a	n/a
+RMT4	42.8832	-13.2078	-41.9134130184349	-999	RMT	R	strip	44.2772	-14.0521	-34.4657	n/a	inferiortemporal	n/a	n/a
+RPT1	27.2256	-36.371	-21.9865872179784	-999	RPT	R	strip	22.6855	-40.08	-12.2416	n/a	fusiform	n/a	n/a
+RPT2	30.028	-32.8337	-27.0150109731606	-999	RPT	R	strip	30.2411	-34.6645	-17.4898	n/a	fusiform	n/a	n/a
+RPT3	30.4676	-26.4091	-30.8980919388393	-999	RPT	R	strip	38.2714	-28.8141	-20.5205	n/a	fusiform	n/a	n/a
+RPT4	41.0782	-30.8851	-30.9407260164089	-999	RPT	R	strip	46.7923	-23.9849	-23.7624	n/a	inferiortemporal	n/a	n/a
+RDA1	12.495	-7.20658	-23.8929277245799	-999	RDA	R	depth	14.4785	-8.40726	-16.3187	n/a	n/a	n/a	n/a
+RDA2	16.625	-4.45487	-26.163626122011	-999	RDA	R	depth	18.7124	-6.99613	-18.1476	Right PHG parahippocampal gyrus	n/a	ERC	Right EC
+RDA3	21.568	-4.2949	-27.7423274457025	-999	RDA	R	depth	23.9541	-6.62419	-20.1908	Right Hippocampus	n/a	n/a	Right MTL WM
+RDA4	25.5328	-4.60893	-29.7338949111419	-999	RDA	R	depth	28.1615	-6.21654	-22.2279	Right Cerebral White Matter	n/a	n/a	Right PRC
+RDH1	19.0638	-11.7265	-28.79892592725	-999	RDH	R	depth	20.6035	-14.8201	-20.8304	Right PHG parahippocampal gyrus	entorhinal	ERC	Right EC
+RDH2	23.753	-10.8549	-30.297625233961	-999	RDH	R	depth	25.8372	-13.7198	-21.6595	Right Cerebral White Matter	n/a	n/a	Right MTL WM
+RDH3	29.0797	-11.0337	-30.68327271096	-999	RDH	R	depth	31.0444	-13.6232	-22.6966	Right FuG fusiform gyrus	entorhinal	BA35	Right PRC
+RDH4	33.2996	-11.7511	-29.9776657932588	-999	RDH	R	depth	36.7342	-13.8196	-22.7305	Right Cerebral White Matter	n/a	BA36	Right PRC
