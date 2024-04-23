@@ -1,3 +1,5 @@
+2.2.0 2024-04-23
+  - More informative event duration values for trial types with well defined durations.  Confirmed corrected response times for recall and math events.
 2.1.0 2024-04-17
   - Added collaborator acknowledgements and grant funding.  Attempt to fix errors with response times for recall and math events.
 2.0.0 2024-04-11
